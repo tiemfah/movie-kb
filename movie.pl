@@ -43,8 +43,8 @@ directed(josh_cooley, toy_story_4).
 distibuted(walt_disney_studios, toy_story_4).
 
 # TODO basic funtions
-isGraterThan(age, minage) :- ( age >= minAgeRate -> true ; false).
-toRated(age,rate) :- minAgeRate(rate,minage), isGraterThan(age,minAgeRate).
+greaterThan(age, minage) :- ( age >= minAgeRate -> true ; false).
+toRated(age,rate) :- minAgeRate(rate,minage), greaterThan(age,minAgeRate).
 
 # TODO adv functions
 recommend(...)
