@@ -21,6 +21,11 @@ isRated(,PG-13).
 isRated(,R).
 isRated(,NC-17).
 
+CanWatch(NC-17, R).
+CanWatch(R, PG-13).
+CanWatch(PG-13, PG).
+CanWatch(PG, G).
+
 # distibutor objects and properties
 distributor(walt_disney_studios).
 
