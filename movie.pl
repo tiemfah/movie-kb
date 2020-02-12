@@ -21,6 +21,12 @@ isRated(,PG-13).
 isRated(,R).
 isRated(,NC-17).
 
+minAgeRate(R, 17).
+minAgeRate(NC-17,18).
+minAgeRate(PG-13,13).
+minAgeRate(PG,0).
+minAgeRate(G,0).
+
 CanWatch(NC-17, R).
 CanWatch(R, PG-13).
 CanWatch(PG-13, PG).
@@ -37,7 +43,9 @@ directed(josh_cooley, toy_story_4).
 distibuted(walt_disney_studios, toy_story_4).
 
 # TODO basic funtions
-toRated(age)
+isGraterThan(age, minage) :- ( age >= minAgeRate -> true ; false).
+toRated(age,rate) :- minAgeRate(rate,minage), isGraterThan(age,minAgeRate).
 
 # TODO adv functions
 recommend(...)
+movieByAge(movie,age) :- toRated(age,rate), isRated(movie,rate)
