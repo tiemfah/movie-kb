@@ -9,17 +9,17 @@ isDirector().
 # movie objects and properties
 movie(toy_story_4).
 
-isAnimation(toy_story_4).
-isAction().
-isHorror().
-isComedy().
-isRomantic().
+isGenre(toy_story_4, animation).
+isGenre(,action).
+isGenre(,horror).
+isGenre(,comedy).
+isGenre(,romantic).
 
-isRatedG(toy_story_4).
-isRatedPG().
-isRatedPG-13().
-isRatedR().
-isRatedNC-17().
+isRated(toy_story_4,G).
+isRated(,PG).
+isRated(,PG-13).
+isRated(,R).
+isRated(,NC-17).
 
 # distibutor objects and properties
 distributor(walt_disney_studios).
@@ -31,5 +31,8 @@ directed(josh_cooley, toy_story_4).
 # distibutor and movie relationship
 distibuted(walt_disney_studios, toy_story_4).
 
+# TODO basic funtions
+toRated(age)
+
 # TODO adv functions
-recommend(...).
+recommend(...)
