@@ -50,6 +50,7 @@ oscarAward(writing_adapted_screenplay).
 oscarAward(writing_original_screenplay).
 
 % Oscar winner of every awards.
+% Oscar 2019
 WinnerOscar(rami_malek, actor_in_a_leading_role).
 WinnerOscar(mahershala_ali, actor_in_a_supporting_role).
 WinnerOscar(olivia_colman, actress_in_a_leading_role).
@@ -69,6 +70,27 @@ WinnerOscar(bohemian_rhapsody, sound_mixing).
 WinnerOscar(first_man, visual_effects).
 WinnerOscar(blackkklansman, writing_adapted_screenplay).
 WinnerOscar(green_book, writing_original_screenplay).
+
+% Oscar 2020
+WinnerOscar(joaquin_phoenix, actor_in_a_leading_role).
+WinnerOscar(brad_pitt, actor_in_a_supporting_role).
+WinnerOscar(renée_zellweger, actress_in_a_leading_role).
+WinnerOscar(laura_dern, actress_in_a_supporting_role).
+WinnerOscar(toy_story_4, animated_feature_film).
+WinnerOscar(1917, cinematography).
+WinnerOscar(little_women, costume_design).
+WinnerOscar(parasite, directing).
+WinnerOscar(ford_v_ferrari, film_editing).
+WinnerOscar(parasite, foreign_language_film).
+WinnerOscar(bombshell, makeup_and_hairstyling).
+WinnerOscar(joker, music_original_score).
+WinnerOscar(parasite, best_picture).
+WinnerOscar(once_upon_a_time_in_hollywood, production_design).
+WinnerOscar(ford_v_ferrari, sound_editing).
+WinnerOscar(1917, sound_mixing).
+WinnerOscar(1917, visual_effects).
+WinnerOscar(jojo_rabbit, writing_adapted_screenplay).
+WinnerOscar(parasite, writing_original_screenplay).
 
 % distibutor objects and properties
 distributor(walt_disney_studios).
