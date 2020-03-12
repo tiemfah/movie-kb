@@ -9,12 +9,6 @@ isDirector().
 # movie objects and properties
 movie(toy_story_4).
 
-isGenre(toy_story_4, animation).
-isGenre(,action).
-isGenre(,horror).
-isGenre(,comedy).
-isGenre(,romantic).
-
 isRated(toy_story_4,G).
 isRated(,PG).
 isRated(,PG-13).
@@ -42,10 +36,33 @@ directed(josh_cooley, toy_story_4).
 # distibutor and movie relationship
 distibuted(walt_disney_studios, toy_story_4).
 
-# TODO basic funtions
-greaterThan(age, minage) :- ( age >= minAgeRate -> true ; false).
-toRated(age,rate) :- minAgeRate(rate,minage), greaterThan(age,minAgeRate).
+%----------------------------------------------------------------------------------------------------------------------------
 
-# TODO adv functions
-recommend(...)
-movieByAge(movie,age) :- toRated(age,rate), isRated(movie,rate)
+
+%RULES
+
+greaterThan(age, minage) :- 
+    ( age >= minAgeRate -> true ; false).
+
+toRated(age,rate) :- 
+    ( minAgeRate(rate,minage), greaterThan(age,minAgeRate)).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+getRatedByAge(age, rated) :-
+    ().
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+getMovieByAge(Age, Movie) :-
+    ().
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+getMovieWonOscar(Movie) :-
+    ().
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+getAnimationWonOscar(Animation) :-
+    ().
