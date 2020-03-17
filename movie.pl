@@ -23,7 +23,7 @@ person(guy_rhys).
 person(willem_dafoe).
 person(kyle_chandler).
 person(lin_shaye).
-person(richard_e._grant).
+person(richard_e_grant).
 person(alec_baldwin).
 person(rebecca_hall).
 person(stephan_james).
@@ -43,7 +43,7 @@ person(lady_gaga).
 person(tye_sheridan).
 person(ryan_reynolds).
 person(hailee_steinfeld).
-person(robert_downey_jr.).
+person(robert_downey_jr).
 person(joanna_kulig).
 person(linda_cardellini).
 person(jörgen_thorsson).
@@ -77,7 +77,7 @@ person(jimmy_chin).
 person(lily_franky).
 person(rachel_weisz).
 person(bryan_cranston).
-person(isiah_whitlock_jr.).
+person(isiah_whitlock_jr).
 person(chris_evans).
 person(john_david_washington).
 person(huck_milner).
@@ -117,9 +117,9 @@ person(bronte_carmichael).
 person(edward_norton).
 person(kirin_kiki).
 person(sam_rockwell).
-person(brian_j._carter).
+person(brian_j_carter).
 person(ryan_gosling).
-person(wolf_roth)
+person(wolf_roth).
 
 /*
     Actor object
@@ -145,7 +145,7 @@ isActor(john_david_washington).
 isActor(chris_evans).
 isActor(alden_ehrenreich).
 isActor(jake_johnson).
-isActor(robert_downey_jr.).
+isActor(robert_downey_jr).
 isActor(richard_cant).
 isActor(dominic_west).
 isActor(tim_blake_nelson).
@@ -154,7 +154,7 @@ isActor(evangeline_lilly).
 isActor(woody_harrelson).
 isActor(rupert_friend).
 isActor(koyu_rankin).
-isActor(isiah_whitlock_jr.).
+isActor(isiah_whitlock_jr).
 isActor(alec_baldwin).
 isActor(willie_watson).
 isActor(bradley_cooper).
@@ -162,7 +162,7 @@ isActor(christian_bale).
 isActor(john_c_reilly).
 isActor(ben_mendelsohn).
 isActor(ben_whishaw).
-isActor(richard_e._grant).
+isActor(richard_e_grant).
 isActor(ryan_reynolds).
 isActor(oscar_isaac).
 isActor(michael_peña).
@@ -194,7 +194,7 @@ isActor(alex_honnold).
 isActor(johnny_depp).
 isActor(kevin_guthrie).
 isActor(tom_schilling).
-isActor(brian_j._carter).
+isActor(brian_j_carter).
 isActor(willem_dafoe).
 isActor(nick_robinson).
 isActor(jack_mcbrayer).
@@ -629,7 +629,7 @@ starred(dylan_obrien, maze_runner_the_death_cure).
 starred(ki_hong_lee, maze_runner_the_death_cure).
 starred(kaya_scodelario, maze_runner_the_death_cure).
 starred(chris_hemsworth, avengers_infinity_war).
-starred(robert_downey_jr., avengers_infinity_war).
+starred(robert_downey_jr, avengers_infinity_war).
 starred(chris_evans, avengers_infinity_war).
 starred(ryan_reynolds, deadpool_2).
 starred(josh_brolin, deadpool_2).
@@ -645,7 +645,7 @@ starred(kevin_guthrie, fantastic_beasts_the_crimes_of_grindelwald).
 starred(wolf_roth, fantastic_beasts_the_crimes_of_grindelwald).
 starred(anne_hathaway, oceans_eight).
 starred(sandra_bullock, oceans_eight).
-starred(brian_j._carter, oceans_eight).
+starred(brian_j_carter, oceans_eight).
 starred(lin_shaye, insidious_the_last_key).
 starred(kirk_acevedo, insidious_the_last_key).
 starred(josh_stewart, insidious_the_last_key).
@@ -669,7 +669,7 @@ starred(rachel_weisz, the_favourite).
 starred(emma_delves, the_favourite).
 starred(alec_baldwin, blackkklansman).
 starred(john_david_washington, blackkklansman).
-starred(isiah_whitlock_jr., blackkklansman).
+starred(isiah_whitlock_jr, blackkklansman).
 starred(christian_bale, vice).
 starred(sam_rockwell, vice).
 starred(steve_carell, vice).
@@ -680,7 +680,7 @@ starred(willem_dafoe, at_eternitys_gate).
 starred(rupert_friend, at_eternitys_gate).
 starred(oscar_isaac, at_eternitys_gate).
 starred(melissa_mccarthy, can_you_ever_forgive_me).
-starred(richard_e._grant, can_you_ever_forgive_me).
+starred(richard_e_grant, can_you_ever_forgive_me).
 starred(dolly_wells, can_you_ever_forgive_me).
 starred(kiki_layne, if_beale_street_could_talk).
 starred(stephan_james, if_beale_street_could_talk).
@@ -1073,5 +1073,4 @@ getAnimationWonOscar(Movie) :-
     isGenre(Movie, animation),
     winnerOscar(Movie, Award),
     movie(Movie),
-    oscarAward(Award)
-).
+    oscarAward(Award).
