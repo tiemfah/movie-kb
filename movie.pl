@@ -1,68 +1,128 @@
-# person objects and properties
+% person objects and properties
 person(josh_cooley).
 person(tom_hanks).
 
-isActor().
+isActor(tom_hanks).
 isActress().
 isDirector().
 
-# movie objects and properties
+% movie objects and properties
 movie(toy_story_4).
 
-isRated(toy_story_4,G).
-isRated(,PG).
-isRated(,PG-13).
-isRated(,R).
-isRated(,NC-17).
+isRated(toy_story_1,g).
+isRated(toy_story_2,pg).
+isRated(toy_story_3,pg-13).
+isRated(toy_story_4,r).
+isRated(toy_story_5,nc-17).
 
-minAgeRate(R, 17).
-minAgeRate(NC-17,18).
-minAgeRate(PG-13,13).
-minAgeRate(PG,0).
-minAgeRate(G,0).
+isGenre(toy_story_1, Animation).
 
-CanWatch(NC-17, R).
-CanWatch(R, PG-13).
-CanWatch(PG-13, PG).
-CanWatch(PG, G).
+minAgeRate(r, 17).
+minAgeRate(nc-17,18).
+minAgeRate(pg-13,13).
+minAgeRate(pg,0).
+minAgeRate(g,0).
 
-# distibutor objects and properties
+canWatch(nc-17, r).
+canWatch(r, pg-13).
+canWatch(pg-13, pg).
+canWatch(pg, g).
+
+% Oscar awards and properties
+oscarAward(actor_in_a_leading_role).
+oscarAward(actor_in_a_supporting_role).
+oscarAward(actress_in_a_leading_role).
+oscarAward(animated_feature_film).
+oscarAward(actress_in_a_supporting_role).
+oscarAward(cinematography).
+oscarAward(costume_design).
+oscarAward(directing).
+oscarAward(film_editing).
+oscarAward(foreign_language_film).
+oscarAward(makeup_and_hairstyling).
+oscarAward(music_original_score).
+oscarAward(music_original_song).
+oscarAward(best_picture).
+oscarAward(production_design).
+oscarAward(short_film_animated).
+oscarAward(short_film_live_action).
+oscarAward(sound_editing).
+oscarAward(sound_mixing).
+oscarAward(visual_effects).
+oscarAward(writing_adapted_screenplay).
+oscarAward(writing_original_screenplay).
+
+% Oscar winner of every awards.
+WinnerOscar(bohemian_rhapsody, actor_in_a_leading_role).
+WinnerOscar(green_book, actor_in_a_supporting_role).
+WinnerOscar(the_favourite, actress_in_a_leading_role).
+WinnerOscar(if_beale_street_could_talk, animated_feature_film).
+WinnerOscar(spider_man_into_the_spider-verse, actress_in_a_supporting_role).
+WinnerOscar(roma, cinematography).
+WinnerOscar(black_panther, costume_design).
+WinnerOscar(roma, directing).
+WinnerOscar(bohemian_rhapsody, film_editing).
+WinnerOscar(roma, foreign_language_film).
+WinnerOscar(vice, makeup_and_hairstyling).
+WinnerOscar(black_panther, music_original_score).
+WinnerOscar(a_star_is_born, music_original_song).
+WinnerOscar(green_book, best_picture).
+WinnerOscar(black_panther, production_design).
+WinnerOscar(bohemian_rhapsody, short_film_animated).
+WinnerOscar(bohemian_rhapsody, short_film_live_action).
+WinnerOscar(first_man, sound_editing).
+WinnerOscar(blackkklansman, sound_mixing).
+WinnerOscar(green_book, visual_effects).
+
+% distibutor objects and properties
 distributor(walt_disney_studios).
 
-# person and movie relationship
+% person and movie relationship
 starred(tom_hanks, toy_story_4).
 directed(josh_cooley, toy_story_4).
 
-# distibutor and movie relationship
+% distibutor and movie relationship
 distibuted(walt_disney_studios, toy_story_4).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
-
 %RULES
-
-greaterThan(age, minage) :- 
-    ( age >= minAgeRate -> true ; false).
-
-toRated(age,rate) :- 
-    ( minAgeRate(rate,minage), greaterThan(age,minAgeRate)).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
-getRatedByAge(age, rated) :-
-    ().
+greaterThan(Age, MinAgeRate) :- 
+    Age @>= MinAgeRate.
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+
+getRatedByAge(Age, Rated) :- 
+(
+    minAgeRate(Rated, X), greaterThan(Age, X)
+).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
 getMovieByAge(Age, Movie) :-
-    ().
+(
+    getRatedByAge(Age, Rated), isRated(Movie, Rated)
+).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
 getMovieWonOscar(Movie) :-
-    ().
+    winnerOscar(Movie, Award),
+    movie(Movie), 
+    oscarAward(Award).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
-getAnimationWonOscar(Animation) :-
-    ().
+%x = Animation
+
+getAnimationWonOscar(Movie) :-
+(
+    isGenre(Movie, Animation),
+    winnerOscar(Movie, Award),
+    movie(Movie),
+    oscarAward(Award)
+).
