@@ -1,5 +1,5 @@
 /*
-    person objects and properties
+    person objects and properties 2018
 */
 person(millicent_simmonds).
 person(walton_goggins).
@@ -120,6 +120,73 @@ person(sam_rockwell).
 person(brian_j_carter).
 person(ryan_gosling).
 person(wolf_roth).
+
+/*
+    person objects and properties 2019
+*/
+person(joachim_ronning).
+person(tamara_kotevska).
+person(adrian_grunberg).
+person(andy_muschietti).
+person(ang_lee).
+person(anthony_russo).
+person(bong_joon_ho).
+person(carlos_martínez_lopez).
+person(chad_stahelski).
+person(chris_butler).
+person(clint_eastwood).
+person(david_f_dot_sandberg).
+person(david_leitch).
+person(dean_deblois).
+person(dennis_widmyer).
+person(dexter_fletcher).
+person(edward_norton).
+person(f_dot_gary_gray).
+person(fernando_meirelles ).
+person(greta_gerwig).
+person(guy_ritchie).
+person(hans_petter_moland).
+person(j_dot_c_dot_chandor).
+person(j_dot_j_dot_abrams).
+person(jake_kasdan).
+person(james_gray).
+person(james_mangold).
+person(jan_komasa).
+person(jay_roach).
+person(jeremy_clapin).
+person(joe_cornish).
+person(joe_russo).
+person(jon_favreau).
+person(jon_watts).
+person(jonathan_levine).
+person(josh_cooley).
+person(kasi_lemmons).
+person(kevin_kolsch).
+person(ladj_ly).
+person(ljubomir_stefanov).
+person(m_dot_night_shyamalan).
+person(marielle_heller).
+person(martin_scorsese).
+person(michael_dowse).
+person(michale_dougherty).
+person(neil_marshall).
+person(noah_baumbach).
+person(pedro_almodovar).
+person(quentin_tarantino).
+person(rian_johnson).
+person(ric_roman_waugh).
+person(robert_eggers).
+person(rupert_goold).
+person(rupert_wyatt).
+person(sam_mendes).
+person(sergio_pablos).
+person(simon_kinberg).
+person(stephen_merchant).
+person(taika_waititi).
+person(tim_miller).
+person(tim_story).
+person(todd_phillips).
+person(wash_westmoreland).
 
 /*
     Actor object
@@ -249,7 +316,7 @@ isActress(joanna_kulig).
 isActress(linda_cardellini).
 
 /*
-    Director object
+    Director object 2018
 */
 isDirector(stefen_spielberg).
 isDirector(wes_ball).
@@ -296,6 +363,72 @@ isDirector(marc_forster).
 isDirector(ethan_coen).
 isDirector(joel_coen).
 isDirector(john_krasinski).
+/*
+    Director object 2019
+*/
+isDirector(joachim_ronning).
+isDirector(tamara_kotevska).
+isDirector(adrian_grunberg).
+isDirector(andy_muschietti).
+isDirector(ang_lee).
+isDirector(anthony_russo).
+isDirector(bong_joon_ho).
+isDirector(carlos_martínez_lopez).
+isDirector(chad_stahelski).
+isDirector(chris_butler).
+isDirector(clint_eastwood).
+isDirector(david_f_dot_sandberg).
+isDirector(david_leitch).
+isDirector(dean_deblois).
+isDirector(dennis_widmyer).
+isDirector(dexter_fletcher).
+isDirector(edward_norton).
+isDirector(f_dot_gary_gray).
+isDirector(fernando_meirelles ).
+isDirector(greta_gerwig).
+isDirector(guy_ritchie).
+isDirector(hans_petter_moland).
+isDirector(j_dot_c_dot_chandor).
+isDirector(j_dot_j_dot_abrams).
+isDirector(jake_kasdan).
+isDirector(james_gray).
+isDirector(james_mangold).
+isDirector(jan_komasa).
+isDirector(jay_roach).
+isDirector(jeremy_clapin).
+isDirector(joe_cornish).
+isDirector(joe_russo).
+isDirector(jon_favreau).
+isDirector(jon_watts).
+isDirector(jonathan_levine).
+isDirector(josh_cooley).
+isDirector(kasi_lemmons).
+isDirector(kevin_kolsch).
+isDirector(ladj_ly).
+isDirector(ljubomir_stefanov).
+isDirector(m_dot_night_shyamalan).
+isDirector(marielle_heller).
+isDirector(martin_scorsese).
+isDirector(michael_dowse).
+isDirector(michale_dougherty).
+isDirector(neil_marshall).
+isDirector(noah_baumbach).
+isDirector(pedro_almodovar).
+isDirector(quentin_tarantino).
+isDirector(rian_johnson).
+isDirector(ric_roman_waugh).
+isDirector(robert_eggers).
+isDirector(rupert_goold).
+isDirector(rupert_wyatt).
+isDirector(sam_mendes).
+isDirector(sergio_pablos).
+isDirector(simon_kinberg).
+isDirector(stephen_merchant).
+isDirector(taika_waititi).
+isDirector(tim_miller).
+isDirector(tim_story).
+isDirector(todd_phillips).
+isDirector(wash_westmoreland).
 
 % distibutor objects and properties
 distributor(fuji_television_network).
@@ -365,6 +498,68 @@ movie(solo_a_star_wars_story, 2018).
 movie(christopher_robin, 2018).
 movie(the_ballad_of_buster_scruggs, 2018).
 movie(a_quiet_place, 2018).
+/*
+    movie in 2018
+*/
+movie(x-men:dark_phoenix).
+movie(the_irishman).
+movie(shazam).
+movie(john_wick:chapter3-parabellum).
+movie(godzilla:king_of_the_monsters).
+movie(it_chapter_two).
+movie(hellboy).
+movie(glass).
+movie(alddin).
+movie(star_wars:episodeix-the_rise_of_skywalker).
+movie(spider-man:far_from_home).
+movie(men_in_black:international).
+movie(pet_sematary).
+movie(terminator:dark_fate).
+movie(fast_and_furious_presents:hobbs_and_shaw).
+movie(captive_state).
+movie(jumanji:the_next_level).
+movie(fighting_with_my_family).
+movie(ad_astra).
+movie(triple_frontier).
+movie(rocketman).
+movie(earthquake_bird).
+movie(angel_has_fallen).
+movie(motherless_brooklyn).
+movie(rambo:last_blood).
+movie(gemini_man).
+movie(shaft).
+movie(a_beautiful_day_in_the_neighborhood).
+movie(the_kid_who_would_be_king).
+movie(cold_pursuit).
+movie(stuber).
+movie(long_shot).
+movie(the_lighthouse).
+movie(joker).
+movie(pain_and_glory).
+movie(once_upon_a_time_in_hollywood).
+movie(marriage_story).
+movie(the_two_popes).
+movie(judy).
+movie(harriet).
+movie(little_women).
+movie(bombshell).
+movie(richard_jewell).
+movie(jojo_rabbit).
+movie(toy_story_4).
+movie(how_to_train_your_dragon:the_hidden_world).
+movie(i_lost_my_body).
+movie(klaus).
+movie(missing_link).
+movie(1917).
+movie(parasite).
+movie(ford_v_ferrari).
+movie(corpus_christi).
+movie(honey_land).
+movie(les_miserables).
+movie(maleficent:mistress_of_evil).
+movie(avengers:endgame).
+movie(the_lion_king).
+movie(knives_out).
 
 /*
     Genre of movie 2018
@@ -482,6 +677,172 @@ isGenre(a_quiet_place, horror).
 isGenre(a_quiet_place, sci-fi).
 
 /*
+    Genre of movie 2019
+*/
+isGenre(x-men:dark_phoenix,action).
+isGenre(x-men:dark_phoenix,adventure).
+isGenre(x-men:dark_phoenix,sci-fi).
+isGenre(the_irishman,biography).
+isGenre(the_irishman,crime).
+isGenre(the_irishman,drama).
+isGenre(shazam,action).
+isGenre(shazam,adventure).
+isGenre(shazam,comedy).
+isGenre(john_wick:chapter3-parabellum,action).
+isGenre(john_wick:chapter3-parabellum,crime).
+isGenre(john_wick:chapter3-parabellum,thriller).
+isGenre(godzilla:king_of_the_monsters,action).
+isGenre(godzilla:king_of_the_monsters,adventure).
+isGenre(godzilla:king_of_the_monsters,fantasy).
+isGenre(it_chapter_two,drama).
+isGenre(it_chapter_two,fantasy).
+isGenre(it_chapter_two,horror).
+isGenre(hellboy,action).
+isGenre(hellboy,adventure).
+isGenre(hellboy,fantasy).
+isGenre(glass,drama).
+isGenre(glass,sci-fi).
+isGenre(glass,thriller).
+isGenre(alddin,adventure).
+isGenre(alddin,family).
+isGenre(alddin,fantasy).
+isGenre(star_wars:episodeix-the_rise_of_skywalker,action).
+isGenre(star_wars:episodeix-the_rise_of_skywalker,adventure).
+isGenre(star_wars:episodeix-the_rise_of_skywalker,fantasy).
+isGenre(spider-man:far_from_home,action).
+isGenre(spider-man:far_from_home,adventure).
+isGenre(spider-man:far_from_home,sci-fi).
+isGenre(men_in_black:international,action).
+isGenre(men_in_black:international,adventure).
+isGenre(men_in_black:international,comedy).
+isGenre(pet_sematary,horror).
+isGenre(pet_sematary,mystery).
+isGenre(pet_sematary,thriller).
+isGenre(terminator:dark_fate,action).
+isGenre(terminator:dark_fate,adventure).
+isGenre(terminator:dark_fate,sci-fi).
+isGenre(fast_and_furious_presents:hobbs_and_shaw,action).
+isGenre(fast_and_furious_presents:hobbs_and_shaw,adventure).
+isGenre(captive_state,drama).
+isGenre(captive_state,horror).
+isGenre(captive_state,sci-fi).
+isGenre(jumanji:the_next_level,action).
+isGenre(jumanji:the_next_level,adventure).
+isGenre(jumanji:the_next_level,comedy).
+isGenre(fighting_with_my_family,biography).
+isGenre(fighting_with_my_family,comedy).
+isGenre(fighting_with_my_family,drama).
+isGenre(ad_astra,adventure).
+isGenre(ad_astra,drama).
+isGenre(ad_astra,mystery).
+isGenre(triple_frontier,action).
+isGenre(triple_frontier,adventure).
+isGenre(triple_frontier,crime).
+isGenre(rocketman,biography).
+isGenre(rocketman,drama).
+isGenre(rocketman,music).
+isGenre(earthquake_bird,crime).
+isGenre(earthquake_bird,drama).
+isGenre(earthquake_bird,mystery).
+isGenre(angel_has_fallen,action).
+isGenre(angel_has_fallen,thriller).
+isGenre(motherless_brooklyn,crime).
+isGenre(motherless_brooklyn,drama).
+isGenre(motherless_brooklyn,mystery).
+isGenre(rambo:last_blood,action).
+isGenre(rambo:last_blood,adventure).
+isGenre(rambo:last_blood,thriller).
+isGenre(gemini_man,action).
+isGenre(gemini_man,drama).
+isGenre(gemini_man,sci-fi).
+isGenre(shaft,action).
+isGenre(shaft,comedy).
+isGenre(a_beautiful_day_in_the_neighborhood,biography).
+isGenre(a_beautiful_day_in_the_neighborhood,drama).
+isGenre(the_kid_who_would_be_king,action).
+isGenre(the_kid_who_would_be_king,adventure).
+isGenre(the_kid_who_would_be_king,family).
+isGenre(cold_pursuit,action).
+isGenre(cold_pursuit,crime).
+isGenre(cold_pursuit,drama).
+isGenre(stuber,action).
+isGenre(stuber,comedy).
+isGenre(stuber,crime).
+isGenre(long_shot,comedy).
+isGenre(long_shot,romance).
+isGenre(the_lighthouse,drama).
+isGenre(the_lighthouse,fantasy).
+isGenre(the_lighthouse,horror).
+isGenre(joker,crime).
+isGenre(joker,drama).
+isGenre(joker,thriller).
+isGenre(pain_and_glory,drama).
+isGenre(once_upon_a_time_in_hollywood,comedy).
+isGenre(once_upon_a_time_in_hollywood,drama).
+isGenre(marriage_story,comedy).
+isGenre(marriage_story,drama).
+isGenre(marriage_story,romance).
+isGenre(the_two_popes,comedy).
+isGenre(the_two_popes,drama).
+isGenre(judy,biography).
+isGenre(judy,drama).
+isGenre(judy,romance).
+isGenre(harriet,action).
+isGenre(harriet,biography).
+isGenre(harriet,drama).
+isGenre(little_women,drama).
+isGenre(little_women,romance).
+isGenre(bombshell,biography).
+isGenre(bombshell,drama).
+isGenre(richard_jewell,biography).
+isGenre(richard_jewell,crime).
+isGenre(richard_jewell,drama).
+isGenre(jojo_rabbit,comedy).
+isGenre(jojo_rabbit,drama).
+isGenre(jojo_rabbit,war).
+isGenre(toy_story_4,animation).
+isGenre(toy_story_4,adventure).
+isGenre(toy_story_4,comedy).
+isGenre(how_to_train_your_dragon:the_hidden_world,animation).
+isGenre(how_to_train_your_dragon:the_hidden_world,action).
+isGenre(how_to_train_your_dragon:the_hidden_world,adventure).
+isGenre(i_lost_my_body,animation).
+isGenre(i_lost_my_body,drama).
+isGenre(i_lost_my_body,fantasy).
+isGenre(klaus,animation).
+isGenre(klaus,adventure).
+isGenre(klaus,comedy).
+isGenre(missing_link,animation).
+isGenre(missing_link,adventure).
+isGenre(missing_link,comedy).
+isGenre(1917,drama).
+isGenre(1917,war).
+isGenre(parasite,comedy).
+isGenre(parasite,drama).
+isGenre(parasite,thriller).
+isGenre(ford_v_ferrari,action).
+isGenre(ford_v_ferrari,biography).
+isGenre(ford_v_ferrari,drama).
+isGenre(corpus_christi,drama).
+isGenre(honey_land,documentary).
+isGenre(honey_land,drama).
+isGenre(les_miserables,crime).
+isGenre(les_miserables,drama).
+isGenre(les_miserables,thriller).
+isGenre(maleficent:mistress_of_evil,adventure).
+isGenre(maleficent:mistress_of_evil,family).
+isGenre(maleficent:mistress_of_evil,fantasy).
+isGenre(avengers:endgame,action).
+isGenre(avengers:endgame,adventure).
+isGenre(avengers:endgame,drama).
+isGenre(the_lion_king,animation).
+isGenre(the_lion_king,adventure).
+isGenre(the_lion_king,drama).
+isGenre(knives_out,comedy).
+isGenre(knives_out,crime).
+isGenre(knives_out,drama).
+
+/*
     Rate of movie 2018
 */
 isRated(ready_player_one, pg-13).
@@ -524,54 +885,178 @@ isRated(solo_a_star_wars_story, pg-13).
 isRated(christopher_robin, pg).
 isRated(the_ballad_of_buster_scruggs, r).
 isRated(a_quiet_place, pg-13).
+/*
+    Rate of movie 2019
+*/
+isRated(toy_story_4,g).
+isRated(corpus_christi,g).
+isRated(honey_land,g).
+isRated(alddin,pg).
+isRated(a_beautiful_day_in_the_neighborhood,pg).
+isRated(the_kid_who_would_be_king,pg).
+isRated(little_women,pg).
+isRated(how_to_train_your_dragon:the_hidden_world,pg).
+isRated(klaus,pg).
+isRated(missing_link,pg).
+isRated(maleficent:mistress_of_evil,pg).
+isRated(the_lion_king,pg).
+isRated(x-men:dark_phoenix,pg-13).
+isRated(shazam,pg-13).
+isRated(godzilla:king_of_the_monsters,pg-13).
+isRated(glass,pg-13).
+isRated(star_wars:episodeix-the_rise_of_skywalker,pg-13).
+isRated(spider-man:far_from_home,pg-13).
+isRated(men_in_black:international,pg-13).
+isRated(fast_and_furious_presents:hobbs_and_shaw,pg-13).
+isRated(captive_state,pg-13).
+isRated(jumanji:the_next_level,pg-13).
+isRated(fighting_with_my_family,pg-13).
+isRated(ad_astra,pg-13).
+isRated(gemini_man,pg-13).
+isRated(the_two_popes,pg-13).
+isRated(judy,pg-13).
+isRated(harriet,pg-13).
+isRated(jojo_rabbit,pg-13).
+isRated(ford_v_ferrari,pg-13).
+isRated(avengers:endgame,pg-13).
+isRated(knives_out,pg-13).
+isRated(the_irishman,r).
+isRated(john_wick:chapter3-parabellum,r).
+isRated(it_chapter_two,r).
+isRated(hellboy,r).
+isRated(pet_sematary,r).
+isRated(terminator:dark_fate,r).
+isRated(triple_frontier,r).
+isRated(rocketman,r).
+isRated(earthquake_bird,r).
+isRated(angel_has_fallen,r).
+isRated(motherless_brooklyn,r).
+isRated(rambo:last_blood,r).
+isRated(shaft,r).
+isRated(cold_pursuit,r).
+isRated(stuber,r).
+isRated(long_shot,r).
+isRated(the_lighthouse,r).
+isRated(joker,r).
+isRated(pain_and_glory,r).
+isRated(once_upon_a_time_in_hollywood,r).
+isRated(marriage_story,r).
+isRated(bombshell,r).
+isRated(richard_jewell,r).
+isRated(1917,r).
+isRated(parasite,r).
+isRated(les_miserables,r).
+isRated(i_lost_my_body,tv-ma).
 
 /*
     Rating of movie 2018
 */
-rating(ready_player_one, 7.5).
-rating(maze_runner_the_death_cure, 6.2).
-rating(avengers_infinity_war, 8.5).
-rating(deadpool_2, 7.7).
-rating(ant_man_and_the_wasp, 7.1).
-rating(tomb_raider, 6.3).
-rating(fantastic_beasts_the_crimes_of_grindelwald, 6.6).
-rating(oceans_eight, 6.2).
-rating(insidious_the_last_key, 5.7).
-rating(love_simon, 7.6).
-rating(a_star_is_born, 7.7).
-rating(bohemian_rhapsody, 8).
-rating(green_book, 8.2).
-rating(roma, 7.7).
-rating(the_favourite, 7.6).
-rating(blackkklansman, 7.5).
-rating(vice, 7.2).
-rating(the_wife, 7.2).
-rating(at_eternitys_gate, 6.9).
-rating(can_you_ever_forgive_me, 7.1).
-rating(if_beale_street_could_talk, 7.1).
-rating(incredibles_2, 7.6).
-rating(ralph_breaks_the_internet, 7.1).
-rating(spider_man_into_the_spider_verse, 8.4).
-rating(mirai, 7).
-rating(isle_of_dogs, 7.9).
-rating(cold_war, 7.6).
-rating(never_look_away, 7.7).
-rating(black_panther, 7.3).
-rating(mary_poppins_returns, 6.7).
-rating(mary_queen_of_scots, 6.3).
-rating(free_solo, 8.2).
-rating(border, 7).
-rating(capernaum, 8.4).
-rating(shoplifters, 8).
-rating(first_man, 7.3).
-rating(solo_a_star_wars_story, 6.9).
-rating(christopher_robin, 7.3).
-rating(the_ballad_of_buster_scruggs, 7.3).
-rating(a_quiet_place, 7.5).
+isScored(ready_player_one, 7.5).
+isScored(maze_runner_the_death_cure, 6.2).
+isScored(avengers_infinity_war, 8.5).
+isScored(deadpool_2, 7.7).
+isScored(ant_man_and_the_wasp, 7.1).
+isScored(tomb_raider, 6.3).
+isScored(fantastic_beasts_the_crimes_of_grindelwald, 6.6).
+isScored(oceans_eight, 6.2).
+isScored(insidious_the_last_key, 5.7).
+isScored(love_simon, 7.6).
+isScored(a_star_is_born, 7.7).
+isScored(bohemian_rhapsody, 8).
+isScored(green_book, 8.2).
+isScored(roma, 7.7).
+isScored(the_favourite, 7.6).
+isScored(blackkklansman, 7.5).
+isScored(vice, 7.2).
+isScored(the_wife, 7.2).
+isScored(at_eternitys_gate, 6.9).
+isScored(can_you_ever_forgive_me, 7.1).
+isScored(if_beale_street_could_talk, 7.1).
+isScored(incredibles_2, 7.6).
+isScored(ralph_breaks_the_internet, 7.1).
+isScored(spider_man_into_the_spider_verse, 8.4).
+isScored(mirai, 7).
+isScored(isle_of_dogs, 7.9).
+isScored(cold_war, 7.6).
+isScored(never_look_away, 7.7).
+isScored(black_panther, 7.3).
+isScored(mary_poppins_returns, 6.7).
+isScored(mary_queen_of_scots, 6.3).
+isScored(free_solo, 8.2).
+isScored(border, 7).
+isScored(capernaum, 8.4).
+isScored(shoplifters, 8).
+isScored(first_man, 7.3).
+isScored(solo_a_star_wars_story, 6.9).
+isScored(christopher_robin, 7.3).
+isScored(the_ballad_of_buster_scruggs, 7.3).
+isScored(a_quiet_place, 7.5).
+/*
+    Rating of movie 2019
+*/
+isScored(hellboy,5.2).
+isScored(men_in_black:international,5.6).
+isScored(pet_sematary,5.7).
+isScored(gemini_man,5.7).
+isScored(x-men:dark_phoenix,5.8).
+isScored(earthquake_bird,5.9).
+isScored(captive_state,6).
+isScored(the_kid_who_would_be_king,6).
+isScored(godzilla:king_of_the_monsters,6.1).
+isScored(stuber,6.1).
+isScored(rambo:last_blood,6.2).
+isScored(cold_pursuit,6.2).
+isScored(terminator:dark_fate,6.3).
+isScored(angel_has_fallen,6.4).
+isScored(shaft,6.4).
+isScored(harriet,6.4).
+isScored(fast_and_furious_presents:hobbs_and_shaw,6.5).
+isScored(triple_frontier,6.5).
+isScored(it_chapter_two,6.6).
+isScored(ad_astra,6.6).
+isScored(glass,6.7).
+isScored(missing_link,6.7).
+isScored(maleficent:mistress_of_evil,6.7).
+isScored(star_wars:episodeix-the_rise_of_skywalker,6.8).
+isScored(jumanji:the_next_level,6.8).
+isScored(motherless_brooklyn,6.8).
+isScored(bombshell,6.8).
+isScored(long_shot,6.9).
+isScored(judy,6.9).
+isScored(the_lion_king,6.9).
+isScored(alddin,7).
+isScored(shazam,7.1).
+isScored(fighting_with_my_family,7.1).
+isScored(rocketman,7.3).
+isScored(a_beautiful_day_in_the_neighborhood,7.4).
+isScored(john_wick:chapter3-parabellum,7.5).
+isScored(spider-man:far_from_home,7.5).
+isScored(richard_jewell,7.5).
+isScored(how_to_train_your_dragon:the_hidden_world,7.5).
+isScored(pain_and_glory,7.6).
+isScored(the_two_popes,7.6).
+isScored(i_lost_my_body,7.6).
+isScored(the_lighthouse,7.7).
+isScored(once_upon_a_time_in_hollywood,7.7).
+isScored(corpus_christi,7.7).
+isScored(toy_story_4,7.8).
+isScored(les_miserables,7.8).
+isScored(the_irishman,7.9).
+isScored(marriage_story,8).
+isScored(little_women,8).
+isScored(jojo_rabbit,8).
+isScored(honey_land,8).
+isScored(knives_out,8).
+isScored(ford_v_ferrari,8.1).
+isScored(klaus,8.2).
+isScored(1917,8.4).
+isScored(avengers:endgame,8.4).
+isScored(joker,8.6).
+isScored(parasite,8.6).
 
 % person and movie relationship
 /* 
-    Director of each movie
+    Director of each movie in 2018
 */
 directed(stefen_spielberg, ready_player_one).
 directed(wes_ball, maze_runner_the_death_cure).
@@ -618,6 +1103,72 @@ directed(marc_forster, christopher_robin).
 directed(ethan_coen, the_ballad_of_buster_scruggs).
 directed(joel_coen, the_ballad_of_buster_scruggs).
 directed(john_krasinski, a_quiet_place).
+/* 
+    Director of each movie in 2019
+*/
+isDirectedBy(maleficent:mistress_of_evil, joachim_ronning).
+isDirectedBy(honey_land, tamara_kotevska).
+isDirectedBy(rambo:last_blood,adrian_grunberg).
+isDirectedBy(it_chapter_two,andy_muschietti).
+isDirectedBy(gemini_man,ang_lee).
+isDirectedBy(avengers:endgame,anthony_russo).
+isDirectedBy(parasite,bong_joon_ho).
+isDirectedBy(klaus,carlos_martínez_lopez).
+isDirectedBy(john_wick:chapter3-parabellum,chad_stahelski).
+isDirectedBy(missing_link,chris_butler).
+isDirectedBy(richard_jewell,clint_eastwood).
+isDirectedBy(shazam,david_f_sandberg).
+isDirectedBy(fast_and_furious_presents:hobbs_and_shaw,david_leitch).
+isDirectedBy(how_to_train_your_dragon:the_hidden_world,dean_deblois).
+isDirectedBy(pet_sematary,dennis_widmyer).
+isDirectedBy(rocketman,dexter_fletcher).
+isDirectedBy(motherless_brooklyn,edward_norton).
+isDirectedBy(men_in_black:international,f_gary_gray).
+isDirectedBy(the_two_popes,fernando_meirelles ).
+isDirectedBy(little_women,greta_gerwig).
+isDirectedBy(alddin,guy_ritchie).
+isDirectedBy(cold_pursuit,hans_petter_moland).
+isDirectedBy(triple_frontier,j_dot_c_chandor).
+isDirectedBy(star_wars:episodeix-the_rise_of_skywalker,j_dot_j_dot_abrams).
+isDirectedBy(jumanji:the_next_level,jake_kasdan).
+isDirectedBy(ad_astra,james_gray).
+isDirectedBy(ford_v_ferrari,james_mangold).
+isDirectedBy(corpus_christi,jan_komasa).
+isDirectedBy(bombshell,jay_roach).
+isDirectedBy(i_lost_my_body,jeremy_clapin).
+isDirectedBy(the_kid_who_would_be_king,joe_cornish).
+isDirectedBy(avengers:endgame,joe_russo).
+isDirectedBy(the_lion_king,jon_favreau).
+isDirectedBy(spider-man:far_from_home,jon_watts).
+isDirectedBy(long_shot,jonathan_levine).
+isDirectedBy(toy_story_4,josh_cooley).
+isDirectedBy(harriet,kasi_lemmons).
+isDirectedBy(pet_sematary,kevin_kolsch).
+isDirectedBy(les_miserables,ladj_ly).
+isDirectedBy(honey_land,ljubomir_stefanov).
+isDirectedBy(glass,m_night_shyalaman).
+isDirectedBy(a_beautiful_day_in_the_neighborhood,marielle_heller).
+isDirectedBy(the_irishman,martin_scorsese).
+isDirectedBy(stuber,michael_dowse).
+isDirectedBy(godzilla:king_of_the_monsters,michale_dougherty).
+isDirectedBy(hellboy,neil_marshall).
+isDirectedBy(marriage_story,noah_baumbach).
+isDirectedBy(pain_and_glory,pedro_almodovar).
+isDirectedBy(once_upon_a_time_in_hollywood,quentin_tarantino).
+isDirectedBy(knives_out,rian_johnson).
+isDirectedBy(angel_has_fallen,ric_roman_waugh).
+isDirectedBy(the_lighthouse,robert_eggers).
+isDirectedBy(judy,rupert_goold).
+isDirectedBy(captive_state,rupert_wyatt).
+isDirectedBy(1917,sam_mendes).
+isDirectedBy(klaus,sergio_pablos).
+isDirectedBy(x-men:dark_phoenix,simon_kinberg).
+isDirectedBy(fighting_with_my_family,stephen_merchant).
+isDirectedBy(jojo_rabbit,taika_waititi).
+isDirectedBy(terminator:dark_fate,tim_miller).
+isDirectedBy(shaft,tim_story).
+isDirectedBy(joker,todd_phillips).
+isDirectedBy(earthquake_bird,wash_westmoreland).
 
 /*
     Star in movie 2018
@@ -742,6 +1293,248 @@ starred(clancy_brown, the_ballad_of_buster_scruggs).
 starred(john_krasinski, a_quiet_place).
 starred(emily_blunt, a_quiet_place).
 starred(millicent_simmonds, a_quiet_place).
+/*
+    Stars in 2019
+*/
+starred(james_mcavoy,x-men:dark_phoenix).
+starred(michael_fassbender,x-men:dark_phoenix).
+starred(jennifer_lawrence,x-men:dark_phoenix).
+starred(nicholas_hoult,x-men:dark_phoenix).
+starred(robert_de_niro,the_irishman).
+starred(al_pacino,the_irishman).
+starred(joe_pesci,the_irishman).
+starred(harvey_keitei,the_irishman).
+starred(zachary_levi,shazam).
+starred(mark_strong,shazam).
+starred(azsher_angel,shazam).
+starred(jack_dylan_grazer,shazam).
+starred(keanu_reeves,john_wick:chapter3-parabellum).
+starred(halle_berry,john_wick:chapter3-parabellum).
+starred(ian_mcshane,john_wick:chapter3-parabellum).
+starred(laurence_fishburne,john_wick:chapter3-parabellum).
+starred(kyle_chandler,godzilla:king_of_the_monsters).
+starred(vera_farmiga,godzilla:king_of_the_monsters).
+starred(millie_bobby_brown,godzilla:king_of_the_monsters).
+starred(ken_watanabe,godzilla:king_of_the_monsters).
+starred(jessica_chastain,it_chapter_two).
+starred(james_mcavoy,it_chapter_two).
+starred(bill_hader,it_chapter_two).
+starred(isaiah_mustafa,it_chapter_two).
+starred(david_harbour,hellboy).
+starred(milla_jovovich,hellboy).
+starred(ian_mcshane,hellboy).
+starred(sasha_lane,hellboy).
+starred(james_mcavoy,glass).
+starred(bruce_willis,glass).
+starred(samuel_l_jackson,glass).
+starred(anya_taylor-joy,glass).
+starred(will_smith,alddin).
+starred(mena_massound,alddin).
+starred(naomi_scott,alddin).
+starred(marwan_kenzari,alddin).
+starred(carrie_fisher,star_wars:episodeix-the_rise_of_skywalker).
+starred(mark_hamill,star_wars:episodeix-the_rise_of_skywalker).
+starred(adam_driver,star_wars:episodeix-the_rise_of_skywalker).
+starred(daisy_ridley,star_wars:episodeix-the_rise_of_skywalker).
+starred(tom_holland,spider-man:far_from_home).
+starred(samuel_l_dot_jackson,spider-man:far_from_home).
+starred(jake_gyllenhaal,spider-man:far_from_home).
+starred(marisa_tomei,spider-man:far_from_home).
+starred(chris_hemsworth,men_in_black:international).
+starred(tessa_thompson,men_in_black:international).
+starred(kumail_nanjiani,men_in_black:international).
+starred(rebecca_ferguson,men_in_black:international).
+starred(jason_clarke,pet_sematary).
+starred(amy_seimetz,pet_sematary).
+starred(john_lithgow,pet_sematary).
+starred(jete_laurence,pet_sematary).
+starred(linda_hamilton,terminator:dark_fate).
+starred(arnold_schwarzenegger,terminator:dark_fate).
+starred(mackenzie_davis,terminator:dark_fate).
+starred(natalia_reyes,terminator:dark_fate).
+starred(dwayne_johnson,fast_and_furious_presents:hobbs_and_shaw).
+starred(jason_statham,fast_and_furious_presents:hobbs_and_shaw).
+starred(idris_elba,fast_and_furious_presents:hobbs_and_shaw).
+starred(vanessa_kirby,fast_and_furious_presents:hobbs_and_shaw).
+starred(john_goodman,captive_state).
+starred(ashton_sanders,captive_state).
+starred(jonathan_majors,captive_state).
+starred(vera_farmiga,captive_state).
+starred(dwayne_johnson,jumanji:the_next_level).
+starred(jack_black,jumanji:the_next_level).
+starred(kevin_hart,jumanji:the_next_level).
+starred(karen_gillan,jumanji:the_next_level).
+starred(dwayne_johnson,fighting_with_my_family).
+starred(lena_headey,fighting_with_my_family).
+starred(vince_vaughn,fighting_with_my_family).
+starred(florence_pugh,fighting_with_my_family).
+starred(brad_pitt,ad_astra).
+starred(tommy_lee_jones,ad_astra).
+starred(ruth_negga,ad_astra).
+starred(donald_sutherland,ad_astra).
+starred(ben_affleck,triple_frontier).
+starred(oscar_isaac,triple_frontier).
+starred(charlie_hunnam,triple_frontier).
+starred(garrett_hedlund,triple_frontier).
+starred(taron_egerton,rocketman).
+starred(jamie_bell,rocketman).
+starred(richard_madden,rocketman).
+starred(bryce_dallas_howard,rocketman).
+starred(alicia_vikander,earthquake_bird).
+starred(kiki_sukezane,earthquake_bird).
+starred(kenichi_masuda,earthquake_bird).
+starred(chiaki_kawamo,earthquake_bird).
+starred(gerard_butler,angel_has_fallen).
+starred(frederick_schmidt,angel_has_fallen).
+starred(danny_huston,angel_has_fallen).
+starred(rocci_williams,angel_has_fallen).
+starred(edward_norton,motherless_brooklyn).
+starred(gugu_mbatha-raw,motherless_brooklyn).
+starred(alec_baldwin,motherless_brooklyn).
+starred(bobby_cannavale,motherless_brooklyn).
+starred(sylvester_stallone,rambo:last_blood).
+starred(paz_vega,rambo:last_blood).
+starred(sergio_peris-mencheta,rambo:last_blood).
+starred(adriana_barraza,rambo:last_blood).
+starred(will_smith,gemini_man).
+starred(mary_elizabeth_winstead,gemini_man).
+starred(clive_owen,gemini_man).
+starred(benedict_wong,gemini_man).
+starred(samuel_l_dot_jackson,shaft).
+starred(jessie_t_dot_usher,shaft).
+starred(richard_roundtree,shaft).
+starred(regina_hall,shaft).
+starred(tom_hanks,a_beautiful_day_in_the_neighborhood).
+starred(matthew_rhys,a_beautiful_day_in_the_neighborhood).
+starred(chris_cooper,a_beautiful_day_in_the_neighborhood).
+starred(susan_kelechi_watson,a_beautiful_day_in_the_neighborhood).
+starred(louis_ashbourne_serkis,the_kid_who_would_be_king).
+starred(denise_gough,the_kid_who_would_be_king).
+starred(dean_chaumoo,the_kid_who_would_be_king).
+starred(tom_taylor,the_kid_who_would_be_king).
+starred(liam_neeson,cold_pursuit).
+starred(laura_dern,cold_pursuit).
+starred(micheal_richardson,cold_pursuit).
+starred(michael_eklund,cold_pursuit).
+starred(dave_bautista,stuber).
+starred(kumail_nanjiani,stuber).
+starred(mira_sorvino,stuber).
+starred(natalie_morales,stuber).
+starred(charlize_theron,long_shot).
+starred(seth_rogen,long_shot).
+starred(june_diane_raphael,long_shot).
+starred(oshea_jackson_jr_dot,long_shot).
+starred(robert_pattinson,the_lighthouse).
+starred(willem_dafoe,the_lighthouse).
+starred(valeriia_karaman,the_lighthouse).
+starred(logan_hawkes,the_lighthouse).
+starred(joaquin_phoenix,joker).
+starred(robert_de_niro,joker).
+starred(zazie_beetz,joker).
+starred(frances_conroy,joker).
+starred(antonio_banderas,pain_and_glory).
+starred(asier_etxeandia,pain_and_glory).
+starred(leonardo_sbaraglia,pain_and_glory).
+starred(nora_navas,pain_and_glory).
+starred(leonardo_dicaprio,once_upon_a_time_in_hollywood).
+starred(brad_pitt,once_upon_a_time_in_hollywood).
+starred(margot_robbie,once_upon_a_time_in_hollywood).
+starred(emile_hirsch,once_upon_a_time_in_hollywood).
+starred(adam_driver,marriage_story).
+starred(scarlett_johansson,marriage_story).
+starred(alan_alda,marriage_story).
+starred(luara_dern,marriage_story).
+starred(azhy_robertson,marriage_story).
+starred(anthony_hopkins, the_two_popes).
+starred(jonathan_pryce, the_two_popes).
+starred(juan_minujin, the_two_popes).
+starred(luis_gnecco, the_two_popes).
+starred(renee_zellweger,judy).
+starred(jessie_buckley,judy).
+starred(finn_wittrock,judy).
+starred(rufus_sewell,judy).
+starred(cynthia_erivo,harriet).
+starred(leslie_odom_jr_dot,harriet).
+starred(joe_alwyn,harriet).
+starred(clarke_peters,harriet).
+starred(saoirse_ronan,little_women).
+starred(emma_watson,little_women).
+starred(florence_pugh,little_women).
+starred(eliza_scanlen,little_women).
+starred(charlize_theron,bombshell).
+starred(margot_robbie,bombshell).
+starred(nicole_kidman,bombshell).
+starred(john_lithgow,bombshell).
+starred(paul_walter_hauser,richard_jewell).
+starred(sam_rockwell,richard_jewell).
+starred(brandon_stanley,richard_jewell).
+starred(kathy_bates,richard_jewell).
+starred(ryan_boz,richard_jewell).
+starred(taika_waititi,jojo_rabbit).
+starred(roman_griffin_davis,jojo_rabbit).
+starred(thomasin_mckenzie,jojo_rabbit).
+starred(scarlett_johansson,jojo_rabbit).
+starred(tom_hanks,toy_story_4).
+starred(tim_allen,toy_story_4).
+starred(annie_potts,toy_story_4).
+starred(tony_hale,toy_story_4).
+starred(jay_baruchel,how_to_train_your_dragon:the_hidden_world).
+starred(america_ferrera,how_to_train_your_dragon:the_hidden_world).
+starred(f_dot_murray_abraham,how_to_train_your_dragon:the_hidden_world).
+starred(cate_bianchett,how_to_train_your_dragon:the_hidden_world).
+starred(hakim_faris,i_lost_my_body).
+starred(victoire_du_bois,i_lost_my_body).
+starred(pattrick_d_assumcao,i_lost_my_body).
+starred(alfonso_arfi,i_lost_my_body).
+starred(jason_schwartzman,klaus).
+starred(j_dot_k_dot_simmons,klaus).
+starred(rashida_jones,klaus).
+starred(will_sasso,klaus).
+starred(hugh_jackman,missing_link).
+starred(david_walliams,missing_link).
+starred(stephen_fry,missing_link).
+starred(matt_lucas,missing_link).
+starred(dean-charles_chapman,1917).
+starred(george_mackay,1917).
+starred(daniel_mays,1917).
+starred(colin_firth,1917).
+starred(kang-ho_song,parasite).
+starred(sun-kyun_lee,parasite).
+starred(yeo-jeong_jo,parasite).
+starred(woo-sik_choi,parasite).
+starred(matt_damon,ford_v_ferrari).
+starred(christian_bale,ford_v_ferrari).
+starred(jon_bernthal,ford_v_ferrari).
+starred(caitriona_balfe,ford_v_ferrari).
+starred(bartosz_bielenia,corpus_christi).
+starred(aleksandra_konieczna,corpus_christi).
+starred(eliza_rycembel,corpus_christi).
+starred(tomasz_zietek,corpus_christi).
+starred(hatidze_muratova,honey_land).
+starred(nazife_muratova,honey_land).
+starred(hussein_sam,honey_land).
+starred(ljutvie_sam,honey_land).
+starred(damien_bonnard,les_miserables).
+starred(alexis_manenti,les_miserables).
+starred(djebril_zonga,les_miserables).
+starred(issa_perica,les_miserables).
+starred(angelina_jolie,maleficent:mistress_of_evil).
+starred(elle_fanning,maleficent:mistress_of_evil).
+starred(harris_dickinson,maleficent:mistress_of_evil).
+starred(michelle_pfeiffer,maleficent:mistress_of_evil).
+starred(robert_downey_jr_dot,avengers:endgame).
+starred(chris_evans,avengers:endgame).
+starred(mark_ruffalo,avengers:endgame).
+starred(chris_hemsworth,avengers:endgame).
+starred(chiwetel_ejiofor,the_lion_king).
+starred(john_oliver,the_lion_king).
+starred(james_earl_jones,the_lion_king).
+starred(john_kani,the_lion_king).
+starred(daniel_craig,knives_out).
+starred(chris_evans,knives_out).
+starred(ana_de_armas,knives_out).
+starred(jamie_lee_curtis,knives_out).
+
 
 /*
     distibutor and movie 2018 relationship
@@ -788,18 +1581,78 @@ distributed(disney, solo_a_star_wars_story).
 distributed(disney, christopher_robin).
 distributed(annapurna_picture, the_ballad_of_buster_scruggs).
 distributed(paramount_pictures, a_quiet_place).
-
-% minimum age that allow to watch movie in each rate.
-minAgeRate(r, 17).
-minAgeRate(nc-17,18).
-minAgeRate(pg-13,13).
-minAgeRate(pg,0).
-minAgeRate(g,0).
-
-canWatch(nc-17, r).
-canWatch(r, pg-13).
-canWatch(pg-13, pg).
-canWatch(pg, g).
+/*
+    distibutor and movie 2019 relationship
+*/
+distributed(cold_pursuit,summit_entertainment).
+distributed(the_lighthouse,a24).
+distributed(missing_link,agc_international).
+distributed(parasite,cj_entertainment).
+distributed(alddin,disney).
+distributed(star_wars:episodeix-the_rise_of_skywalker,disney).
+distributed(toy_story_4,disney).
+distributed(maleficent:mistress_of_evil,disney).
+distributed(avengers:endgame,disney).
+distributed(the_lion_king,disney).
+distributed(1917,entertainment_one).
+distributed(captive_state,focus_features).
+distributed(the_lighthouse,focus_features).
+distributed(harriet,focus_features).
+distributed(jojo_rabbit,fox_searchlight_pictures).
+distributed(corpus_christi,kino_swiat).
+distributed(judy,ld_entertainment_and_roadside_attractions).
+distributed(john_wick:chapter3-parabellum,lionsgate).
+distributed(hellboy,lionsgate).
+distributed(fighting_with_my_family,lionsgate).
+distributed(angel_has_fallen,lionsgate).
+distributed(rambo:last_blood,lionsgate).
+distributed(long_shot,lionsgate).
+distributed(bombshell,lionsgate).
+distributed(knives_out,lionsgate).
+distributed(fighting_with_my_family,mirror_releasing).
+distributed(honey_land,neon_dogwoof).
+distributed(the_irishman,netflix).
+distributed(triple_frontier,netflix).
+distributed(earthquake_bird,netflix).
+distributed(shaft,netflix).
+distributed(marriage_story,netflix).
+distributed(the_two_popes,netflix).
+distributed(klaus,netflix).
+distributed(pet_sematary,paramount_pictures).
+distributed(terminator:dark_fate,paramount_pictures).
+distributed(rocketman,paramount_pictures).
+distributed(gemini_man,paramount_pictures).
+distributed(i_lost_my_body,rezo_flims).
+distributed(spider-man:far_from_home,sony_pictures).
+distributed(men_in_black:international,sony_pictures).
+distributed(jumanji:the_next_level,sony_pictures).
+distributed(a_beautiful_day_in_the_neighborhood,sony_pictures).
+distributed(pain_and_glory,sony_pictures).
+distributed(once_upon_a_time_in_hollywood,sony_pictures).
+distributed(little_women,sony_pictures).
+distributed(x-men:dark_phoenix,twentieth_century_fox).
+distributed(terminator:dark_fate,twentieth_century_fox).
+distributed(ad_astra,twentieth_century_fox).
+distributed(the_kid_who_would_be_king,twentieth_century_fox).
+distributed(stuber,twentieth_century_fox).
+distributed(judy,twentieth_century_fox).
+distributed(ford_v_ferrari,twentieth_century_fox).
+distributed(missing_link,united_artists_releasing).
+distributed(glass,universal_pictures).
+distributed(fast_and_furious_presents:hobbs_and_shaw,universal_pictures).
+distributed(fighting_with_my_family,universal_pictures).
+distributed(the_lighthouse,universal_pictures).
+distributed(how_to_train_your_dragon:the_hidden_world,universal_pictures).
+distributed(1917,universal_pictures).
+distributed(les_miserables,universal_pictures).
+distributed(the_lighthouse,vvs_films).
+distributed(shazam,warner_bros).
+distributed(godzilla:king_of_the_monsters,warner_bros).
+distributed(it_chapter_two,warner_bros).
+distributed(motherless_brooklyn,warner_bros).
+distributed(shaft,warner_bros).
+distributed(joker,warner_bros).
+distributed(richard_jewell,warner_bros).
 
 %----------------------------------------------------------------------------------------------------------------------------
 % Oscar awards and properties
@@ -1040,6 +1893,13 @@ nomineeOscar(once_upon_a_time_in_hollywood, writing_original_screenplay).
 
 %RULES
 
+%----------------------------------------------------------------------------------------------------------------------------
+% minimum age that allow to watch movie in each rate.
+minAgeRate(r, 17).
+minAgeRate(nc-17,18).
+minAgeRate(pg-13,13).
+minAgeRate(pg,0).
+minAgeRate(g,0).
 %----------------------------------------------------------------------------------------------------------------------------
 
 greaterThan(Age, MinAgeRate) :- 
