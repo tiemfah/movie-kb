@@ -1049,14 +1049,16 @@ greaterThan(Age, MinAgeRate) :-
 
 
 getRatedByAge(Age, Rated) :- 
-    minAgeRate(Rated, X), 
-    greaterThan(Age, X).
+(
+    minAgeRate(Rated, X), greaterThan(Age, X)
+).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
 getMovieByAge(Age, Movie) :-
-    getRatedByAge(Age, Rated), 
-    isRated(Movie, Rated).
+(
+    getRatedByAge(Age, Rated), isRated(Movie, Rated)
+).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
@@ -1071,4 +1073,5 @@ getAnimationWonOscar(Movie) :-
     isGenre(Movie, animation),
     winnerOscar(Movie, Award),
     movie(Movie),
-    oscarAward(Award).
+    oscarAward(Award)
+).
