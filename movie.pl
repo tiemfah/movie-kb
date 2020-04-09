@@ -323,7 +323,7 @@ isActor(dwayne_johnson).
 isActor(dwayne_johnson).
 isActor(edward_norton).
 isActor(emile_hirsch).
-isActor(f._murray_abraham).
+isActor(f_murray_abraham).
 isActor(finn_wittrock).
 isActor(frederick_schmidt).
 isActor(garrett_hedlund).
@@ -339,7 +339,7 @@ isActor(ian_mcshane).
 isActor(idris_elba).
 isActor(isaiah_mustafa).
 isActor(issa_perica).
-isActor(j.k._simmons).
+isActor(jk_simmons).
 isActor(jack_black).
 isActor(jack_dylan_grazer).
 isActor(jake_gyllenhaal).
@@ -352,7 +352,7 @@ isActor(jason_clarke).
 isActor(jason_schwartzman).
 isActor(jason_statham).
 isActor(jay_baruchel).
-isActor(jessie_t._usher).
+isActor(jessie_t_usher).
 isActor(joaquin_phoenix).
 isActor(joe_alwyn).
 isActor(joe_pesci).
@@ -376,7 +376,7 @@ isActor(kyle_chandler).
 isActor(laurence_fishburne).
 isActor(leonardo_dicaprio).
 isActor(leonardo_sbaraglia).
-isActor(leslie_odom_jr.).
+isActor(leslie_odom_jr).
 isActor(liam_neeson).
 isActor(ljutvie_sam).
 isActor(logan_hawkes).
@@ -395,14 +395,14 @@ isActor(michael_fassbender).
 isActor(micheal_richardson).
 isActor(nicholas_hoult).
 isActor(oscar_isaac).
-isActor(oshea_jackson_jr.).
+isActor(oshea_jackson_jr).
 isActor(pattrick_d_assumcao).
 isActor(paul_walter_hauser).
 isActor(richard_madden).
 isActor(richard_roundtree).
 isActor(robert_de_niro).
 isActor(robert_de_niro).
-isActor(robert_downey_jr.).
+isActor(robert_downey_jr).
 isActor(robert_pattinson).
 isActor(rocci_williams).
 isActor(roman_griffin_davis).
@@ -410,8 +410,6 @@ isActor(rufus_sewell).
 isActor(ryan_boz).
 isActor(sam_rockwell).
 isActor(samuel_l_jackson).
-isActor(samuel_l._jackson).
-isActor(samuel_l._jackson).
 isActor(sergio_peris-mencheta).
 isActor(seth_rogen).
 isActor(stephen_fry).
@@ -421,7 +419,6 @@ isActor(taika_waititi).
 isActor(taron_egerton).
 isActor(tim_allen).
 isActor(tom_hanks).
-isActor(tom_hanks).
 isActor(tom_holland).
 isActor(tom_taylor).
 isActor(tomasz_zietek).
@@ -429,7 +426,6 @@ isActor(tommy_lee_jones).
 isActor(tony_hale).
 isActor(vince_vaughn).
 isActor(will_sasso).
-isActor(will_smith).
 isActor(will_smith).
 isActor(willem_dafoe).
 isActor(woo-sik_choi).
@@ -534,7 +530,7 @@ isActress(mira_sorvino).
 isActress(naomi_scott).
 isActress(natalia_reyes).
 isActress(natalie_morales).
-isActress(nazife muratova).
+isActress(nazife_muratova).
 isActress(nicole_kidman).
 isActress(nora_navas).
 isActress(paz_vega).
@@ -1191,110 +1187,110 @@ isRated(les_miserables,r).
 isRated(i_lost_my_body,tv-ma).
 
 /*
-    Rating of movie 2018
+    rating of movie 2018
 */
-isScored(ready_player_one, 7.5).
-isScored(maze_runner_the_death_cure, 6.2).
-isScored(avengers_infinity_war, 8.5).
-isScored(deadpool_2, 7.7).
-isScored(ant_man_and_the_wasp, 7.1).
-isScored(tomb_raider, 6.3).
-isScored(fantastic_beasts_the_crimes_of_grindelwald, 6.6).
-isScored(oceans_eight, 6.2).
-isScored(insidious_the_last_key, 5.7).
-isScored(love_simon, 7.6).
-isScored(a_star_is_born, 7.7).
-isScored(bohemian_rhapsody, 8).
-isScored(green_book, 8.2).
-isScored(roma, 7.7).
-isScored(the_favourite, 7.6).
-isScored(blackkklansman, 7.5).
-isScored(vice, 7.2).
-isScored(the_wife, 7.2).
-isScored(at_eternitys_gate, 6.9).
-isScored(can_you_ever_forgive_me, 7.1).
-isScored(if_beale_street_could_talk, 7.1).
-isScored(incredibles_2, 7.6).
-isScored(ralph_breaks_the_internet, 7.1).
-isScored(spider_man_into_the_spider_verse, 8.4).
-isScored(mirai, 7).
-isScored(isle_of_dogs, 7.9).
-isScored(cold_war, 7.6).
-isScored(never_look_away, 7.7).
-isScored(black_panther, 7.3).
-isScored(mary_poppins_returns, 6.7).
-isScored(mary_queen_of_scots, 6.3).
-isScored(free_solo, 8.2).
-isScored(border, 7).
-isScored(capernaum, 8.4).
-isScored(shoplifters, 8).
-isScored(first_man, 7.3).
-isScored(solo_a_star_wars_story, 6.9).
-isScored(christopher_robin, 7.3).
-isScored(the_ballad_of_buster_scruggs, 7.3).
-isScored(a_quiet_place, 7.5).
+movieRating(ready_player_one, 7.5).
+movieRating(maze_runner_the_death_cure, 6.2).
+movieRating(avengers_infinity_war, 8.5).
+movieRating(deadpool_2, 7.7).
+movieRating(ant_man_and_the_wasp, 7.1).
+movieRating(tomb_raider, 6.3).
+movieRating(fantastic_beasts_the_crimes_of_grindelwald, 6.6).
+movieRating(oceans_eight, 6.2).
+movieRating(insidious_the_last_key, 5.7).
+movieRating(love_simon, 7.6).
+movieRating(a_star_is_born, 7.7).
+movieRating(bohemian_rhapsody, 8).
+movieRating(green_book, 8.2).
+movieRating(roma, 7.7).
+movieRating(the_favourite, 7.6).
+movieRating(blackkklansman, 7.5).
+movieRating(vice, 7.2).
+movieRating(the_wife, 7.2).
+movieRating(at_eternitys_gate, 6.9).
+movieRating(can_you_ever_forgive_me, 7.1).
+movieRating(if_beale_street_could_talk, 7.1).
+movieRating(incredibles_2, 7.6).
+movieRating(ralph_breaks_the_internet, 7.1).
+movieRating(spider_man_into_the_spider_verse, 8.4).
+movieRating(mirai, 7).
+movieRating(isle_of_dogs, 7.9).
+movieRating(cold_war, 7.6).
+movieRating(never_look_away, 7.7).
+movieRating(black_panther, 7.3).
+movieRating(mary_poppins_returns, 6.7).
+movieRating(mary_queen_of_scots, 6.3).
+movieRating(free_solo, 8.2).
+movieRating(border, 7).
+movieRating(capernaum, 8.4).
+movieRating(shoplifters, 8).
+movieRating(first_man, 7.3).
+movieRating(solo_a_star_wars_story, 6.9).
+movieRating(christopher_robin, 7.3).
+movieRating(the_ballad_of_buster_scruggs, 7.3).
+movieRating(a_quiet_place, 7.5).
 /*
-    Rating of movie 2019
+    rating of movie 2019
 */
-isScored(hellboy,5.2).
-isScored(men_in_black:international,5.6).
-isScored(pet_sematary,5.7).
-isScored(gemini_man,5.7).
-isScored(x-men:dark_phoenix,5.8).
-isScored(earthquake_bird,5.9).
-isScored(captive_state,6).
-isScored(the_kid_who_would_be_king,6).
-isScored(godzilla:king_of_the_monsters,6.1).
-isScored(stuber,6.1).
-isScored(rambo:last_blood,6.2).
-isScored(cold_pursuit,6.2).
-isScored(terminator:dark_fate,6.3).
-isScored(angel_has_fallen,6.4).
-isScored(shaft,6.4).
-isScored(harriet,6.4).
-isScored(fast_and_furious_presents:hobbs_and_shaw,6.5).
-isScored(triple_frontier,6.5).
-isScored(it_chapter_two,6.6).
-isScored(ad_astra,6.6).
-isScored(glass,6.7).
-isScored(missing_link,6.7).
-isScored(maleficent:mistress_of_evil,6.7).
-isScored(star_wars:episodeix-the_rise_of_skywalker,6.8).
-isScored(jumanji:the_next_level,6.8).
-isScored(motherless_brooklyn,6.8).
-isScored(bombshell,6.8).
-isScored(long_shot,6.9).
-isScored(judy,6.9).
-isScored(the_lion_king,6.9).
-isScored(alddin,7).
-isScored(shazam,7.1).
-isScored(fighting_with_my_family,7.1).
-isScored(rocketman,7.3).
-isScored(a_beautiful_day_in_the_neighborhood,7.4).
-isScored(john_wick:chapter3-parabellum,7.5).
-isScored(spider-man:far_from_home,7.5).
-isScored(richard_jewell,7.5).
-isScored(how_to_train_your_dragon:the_hidden_world,7.5).
-isScored(pain_and_glory,7.6).
-isScored(the_two_popes,7.6).
-isScored(i_lost_my_body,7.6).
-isScored(the_lighthouse,7.7).
-isScored(once_upon_a_time_in_hollywood,7.7).
-isScored(corpus_christi,7.7).
-isScored(toy_story_4,7.8).
-isScored(les_miserables,7.8).
-isScored(the_irishman,7.9).
-isScored(marriage_story,8).
-isScored(little_women,8).
-isScored(jojo_rabbit,8).
-isScored(honey_land,8).
-isScored(knives_out,8).
-isScored(ford_v_ferrari,8.1).
-isScored(klaus,8.2).
-isScored(1917,8.4).
-isScored(avengers:endgame,8.4).
-isScored(joker,8.6).
-isScored(parasite,8.6).
+movieRating(hellboy,5.2).
+movieRating(men_in_black:international,5.6).
+movieRating(pet_sematary,5.7).
+movieRating(gemini_man,5.7).
+movieRating(x-men:dark_phoenix,5.8).
+movieRating(earthquake_bird,5.9).
+movieRating(captive_state,6).
+movieRating(the_kid_who_would_be_king,6).
+movieRating(godzilla:king_of_the_monsters,6.1).
+movieRating(stuber,6.1).
+movieRating(rambo:last_blood,6.2).
+movieRating(cold_pursuit,6.2).
+movieRating(terminator:dark_fate,6.3).
+movieRating(angel_has_fallen,6.4).
+movieRating(shaft,6.4).
+movieRating(harriet,6.4).
+movieRating(fast_and_furious_presents:hobbs_and_shaw,6.5).
+movieRating(triple_frontier,6.5).
+movieRating(it_chapter_two,6.6).
+movieRating(ad_astra,6.6).
+movieRating(glass,6.7).
+movieRating(missing_link,6.7).
+movieRating(maleficent:mistress_of_evil,6.7).
+movieRating(star_wars:episodeix-the_rise_of_skywalker,6.8).
+movieRating(jumanji:the_next_level,6.8).
+movieRating(motherless_brooklyn,6.8).
+movieRating(bombshell,6.8).
+movieRating(long_shot,6.9).
+movieRating(judy,6.9).
+movieRating(the_lion_king,6.9).
+movieRating(alddin,7).
+movieRating(shazam,7.1).
+movieRating(fighting_with_my_family,7.1).
+movieRating(rocketman,7.3).
+movieRating(a_beautiful_day_in_the_neighborhood,7.4).
+movieRating(john_wick:chapter3-parabellum,7.5).
+movieRating(spider-man:far_from_home,7.5).
+movieRating(richard_jewell,7.5).
+movieRating(how_to_train_your_dragon:the_hidden_world,7.5).
+movieRating(pain_and_glory,7.6).
+movieRating(the_two_popes,7.6).
+movieRating(i_lost_my_body,7.6).
+movieRating(the_lighthouse,7.7).
+movieRating(once_upon_a_time_in_hollywood,7.7).
+movieRating(corpus_christi,7.7).
+movieRating(toy_story_4,7.8).
+movieRating(les_miserables,7.8).
+movieRating(the_irishman,7.9).
+movieRating(marriage_story,8).
+movieRating(little_women,8).
+movieRating(jojo_rabbit,8).
+movieRating(honey_land,8).
+movieRating(knives_out,8).
+movieRating(ford_v_ferrari,8.1).
+movieRating(klaus,8.2).
+movieRating(1917,8.4).
+movieRating(avengers:endgame,8.4).
+movieRating(joker,8.6).
+movieRating(parasite,8.6).
 
 % person and movie relationship
 /* 
@@ -2176,3 +2172,23 @@ getAnimationWonOscar(Movie) :-
     winnerOscar(Movie, Award),
     movie(Movie),
     oscarAward(Award).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+bestRatingMovie(Movie) :-
+    movieRating(Movie,Rating1), \+
+    (
+        movieRating(Movie2, Rating2),
+        Movie \= Movie2,
+        Rating2 > Rating1
+    ).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+worstRatingMovie(Movie) :-
+    movieRating(Movie,Rating1), \+
+    (
+        movieRating(Movie2, Rating2),
+        Movie \= Movie2,
+        Rating2 < Rating1
+    ).
