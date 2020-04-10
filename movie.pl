@@ -2192,3 +2192,16 @@ worstRatingMovie(Movie) :-
         Movie \= Movie2,
         Rating2 < Rating1
     ).
+
+%--------------------------------------------------------------
+
+main :-
+    write('Choose 1->N:'), nl,
+    write('1. Best Rating Movie'), nl,
+    write('2. Worst Rating Movie'), nl,
+    read(X),  nl,
+    (
+    X = 1 -> bestRatingMovie(Movie), write('the best movie ever is = '), writeln(Movie);
+    X = 2 -> worstRatingMovie(Movie), write('the best movie ever is = '), writeln(Movie);
+    writeln('this choice is not available.'), fail
+    ).
