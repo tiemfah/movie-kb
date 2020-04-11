@@ -2191,15 +2191,38 @@ best_rating_movie(Movie) :-
 
 %----------------------------------------------------------------------------------------------------------------------------
 
+best_rating_movie_by_genre(Movie, Genre) :-
+    isGenre(Movie, Genre), 
+    movieRating(Movie,Rating1),\+
+    (
+        movieRating(Movie2, Rating2),
+        isGenre(Movie2, Genre),
+        Movie \= Movie2,
+        Rating2 > Rating1
+    ).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
 worst_rating_movie(Movie) :-
     movieRating(Movie,Rating1), \+
     (
         movieRating(Movie2, Rating2),
+        writeln(Rating1),
         Movie \= Movie2,
         Rating2 < Rating1
     ).
 
 %----------------------------------------------------------------------------------------------------------------------------
+
+worst_rating_movie_by_genre(Movie, Genre) :-
+    isGenre(Movie, Genre), 
+    movieRating(Movie,Rating1),\+
+    (
+        movieRating(Movie2, Rating2),
+        isGenre(Movie2, Genre),
+        Movie \= Movie2,
+        Rating2 < Rating1
+    ).
 
 suggest_movies_by :-
     write('Choose 1-5:'), nl,
@@ -2255,15 +2278,25 @@ main :-
     write('1) Suggest movies by ...'), nl,
     write('2) The Best Rating Movie'), nl,
     write('3) The Worst Rating Movie'), nl,
-    write('4) Suggest me some movies'), nl,
+    write('4) The Best Rating Movie By Genre'), nl,
+    write('5) The Worst Rating Movie By Genre'), nl,
+    write('6) Suggest me some movies'), nl,
     read(Input), nl,
     (   Input = 1 ->
         suggest_movies_by
     ;   Input = 2 ->
-        best_rating_movie(Movie), write('the best movie ever is = '), writeln(Movie)
+        best_rating_movie(Movie), write('the best rating movie ever is = '), writeln(Movie)
     ;   Input = 3 ->
-        worst_rating_movie(Movie), write('the worst movie ever is = '), writeln(Movie)
+        worst_rating_movie(Movie), write('the worst rating movie ever is = '), writeln(Movie)
     ;   Input = 4 ->
+        write('Which genre?'), nl,
+        read(Genre), nl,
+        best_rating_movie_by_genre(Movie, Genre), write('the best rating movie in this genre is = '), writeln(Movie)
+    ;   Input = 5 ->
+        write('Which genre?'), nl,
+        read(Genre), nl,
+        worst_rating_movie_by_genre(Movie, Genre), write('the worst rating movie in this genre is = '), writeln(Movie)
+    ;   Input = 6 ->
         suggest_movies_for_user
     ;   writeln('this choice is not available.'),
         fail
