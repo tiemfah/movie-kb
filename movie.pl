@@ -1,8 +1,8 @@
 % Members : 6110545473 Chananchida Fuachai 
-%           6110545660 Sirikon Songsaengthong 
 %           6110545643 Sivanut Subpaisarn
-%           6110545783 Phanthakan Kiatphaisansophon
+%           6110545660 Sirikon Songsaengthong 
 %           6110545673 Arisa Pangpeng
+%           6110545783 Phanthakan Kiatphaisansophon
 
 /*
     person objects and properties 2018
@@ -197,482 +197,482 @@ person(wash_westmoreland).
 /*
     Actor object
 */
-isActor(guy_rhys).
-isActor(edward_norton).
-isActor(boluwatife_treasure_bankole).
-isActor(borys_szyc).
-isActor(sam_elliott).
-isActor(dylan_obrien).
-isActor(michael_b_jordan).
-isActor(logan_miller).
-isActor(clancy_brown).
-isActor(chris_hemsworth).
-isActor(joonas_suotamo).
-isActor(stephan_james).
-isActor(jimmy_chin).
-isActor(tomasz_kot).
-isActor(ki_hong_lee).
-isActor(john_cho).
-isActor(kirk_acevedo).
-isActor(john_david_washington).
-isActor(chris_evans).
-isActor(alden_ehrenreich).
-isActor(jake_johnson).
-isActor(robert_downey_jr).
-isActor(richard_cant).
-isActor(dominic_west).
-isActor(tim_blake_nelson).
-isActor(max_irons).
-isActor(evangeline_lilly).
-isActor(woody_harrelson).
-isActor(rupert_friend).
-isActor(koyu_rankin).
-isActor(isiah_whitlock_jr).
-isActor(alec_baldwin).
-isActor(willie_watson).
-isActor(bradley_cooper).
-isActor(christian_bale).
-isActor(john_c_reilly).
-isActor(ben_mendelsohn).
-isActor(ben_whishaw).
-isActor(richard_e_grant).
-isActor(ryan_reynolds).
-isActor(oscar_isaac).
-isActor(michael_peña).
-isActor(sam_rockwell).
-isActor(paul_rudd).
-isActor(wolf_roth).
-isActor(ewan_mcgregor).
-isActor(eero_milonoff).
-isActor(john_krasinski).
-isActor(zain_al_rafeea).
-isActor(steve_carell).
-isActor(walton_goggins).
-isActor(jörgen_thorsson).
-isActor(kyle_chandler).
-isActor(samuel_l_jackson).
-isActor(craig_t_nelson).
-isActor(tommy_caldwell).
-isActor(ryan_gosling).
-isActor(mahershala_ali).
-isActor(gwilym_lee).
-isActor(viggo_mortensen).
-isActor(rami_malek).
-isActor(josh_brolin).
-isActor(diego_cortina_autrey).
-isActor(tye_sheridan).
-isActor(sebastian_koch).
-isActor(shameik_moore).
-isActor(alex_honnold).
-isActor(johnny_depp).
-isActor(kevin_guthrie).
-isActor(tom_schilling).
-isActor(brian_j_carter).
-isActor(willem_dafoe).
-isActor(nick_robinson).
-isActor(jack_mcbrayer).
-isActor(chadwick_boseman).
-isActor(daniel_dae_kim).
-isActor(jonathan_pryce).
-isActor(josh_stewart).
-isActor(lin_manuel_miranda).
-isActor(bryan_cranston).
+actor(guy_rhys).
+actor(edward_norton).
+actor(boluwatife_treasure_bankole).
+actor(borys_szyc).
+actor(sam_elliott).
+actor(dylan_obrien).
+actor(michael_b_jordan).
+actor(logan_miller).
+actor(clancy_brown).
+actor(chris_hemsworth).
+actor(joonas_suotamo).
+actor(stephan_james).
+actor(jimmy_chin).
+actor(tomasz_kot).
+actor(ki_hong_lee).
+actor(john_cho).
+actor(kirk_acevedo).
+actor(john_david_washington).
+actor(chris_evans).
+actor(alden_ehrenreich).
+actor(jake_johnson).
+actor(robert_downey_jr).
+actor(richard_cant).
+actor(dominic_west).
+actor(tim_blake_nelson).
+actor(max_irons).
+actor(evangeline_lilly).
+actor(woody_harrelson).
+actor(rupert_friend).
+actor(koyu_rankin).
+actor(isiah_whitlock_jr).
+actor(alec_baldwin).
+actor(willie_watson).
+actor(bradley_cooper).
+actor(christian_bale).
+actor(john_c_reilly).
+actor(ben_mendelsohn).
+actor(ben_whishaw).
+actor(richard_e_grant).
+actor(ryan_reynolds).
+actor(oscar_isaac).
+actor(michael_peña).
+actor(sam_rockwell).
+actor(paul_rudd).
+actor(wolf_roth).
+actor(ewan_mcgregor).
+actor(eero_milonoff).
+actor(john_krasinski).
+actor(zain_al_rafeea).
+actor(steve_carell).
+actor(walton_goggins).
+actor(jörgen_thorsson).
+actor(kyle_chandler).
+actor(samuel_l_jackson).
+actor(craig_t_nelson).
+actor(tommy_caldwell).
+actor(ryan_gosling).
+actor(mahershala_ali).
+actor(gwilym_lee).
+actor(viggo_mortensen).
+actor(rami_malek).
+actor(josh_brolin).
+actor(diego_cortina_autrey).
+actor(tye_sheridan).
+actor(sebastian_koch).
+actor(shameik_moore).
+actor(alex_honnold).
+actor(johnny_depp).
+actor(kevin_guthrie).
+actor(tom_schilling).
+actor(brian_j_carter).
+actor(willem_dafoe).
+actor(nick_robinson).
+actor(jack_mcbrayer).
+actor(chadwick_boseman).
+actor(daniel_dae_kim).
+actor(jonathan_pryce).
+actor(josh_stewart).
+actor(lin_manuel_miranda).
+actor(bryan_cranston).
 /*
     Actor object 2019
 */
-isActor(adam_driver).
-isActor(adam_driver).
-isActor(al_pacino).
-isActor(alan_alda).
-isActor(alec_baldwin).
-isActor(alexis_manenti).
-isActor(alfonso_arfi).
-isActor(anthony_hopkins).
-isActor(antonio_banderas).
-isActor(arnold_schwarzenegger).
-isActor(ashton_sanders).
-isActor(asier_etxeandia).
-isActor(azhy_robertson).
-isActor(azsher_angel).
-isActor(ben_affleck).
-isActor(benedict_wong).
-isActor(bill_hader).
-isActor(bobby_cannavale).
-isActor(brad_pitt).
-isActor(brad_pitt).
-isActor(brandon_stanley).
-isActor(bruce_willis).
-isActor(charlie_hunnam).
-isActor(chiwetel_ejiofor).
-isActor(chris_cooper).
-isActor(chris_evans).
-isActor(chris_evans).
-isActor(chris_hemsworth).
-isActor(chris_hemsworth).
-isActor(christian_bale).
-isActor(clarke_peters).
-isActor(clive_owen).
-isActor(colin_firth).
-isActor(damien_bonnard).
-isActor(daniel_craig).
-isActor(daniel_mays).
-isActor(danny_huston).
-isActor(dave_bautista).
-isActor(david_harbour).
-isActor(david_walliams).
-isActor(dean_chaumoo).
-isActor(dean-charles_chapman).
-isActor(djebril_zonga).
-isActor(donald_sutherland).
-isActor(dwayne_johnson).
-isActor(dwayne_johnson).
-isActor(dwayne_johnson).
-isActor(edward_norton).
-isActor(emile_hirsch).
-isActor(f_murray_abraham).
-isActor(finn_wittrock).
-isActor(frederick_schmidt).
-isActor(garrett_hedlund).
-isActor(george_mackay).
-isActor(gerard_butler).
-isActor(hakim_faris).
-isActor(harris_dickinson).
-isActor(harvey_keitei).
-isActor(hugh_jackman).
-isActor(hussein_sam).
-isActor(ian_mcshane).
-isActor(ian_mcshane).
-isActor(idris_elba).
-isActor(isaiah_mustafa).
-isActor(issa_perica).
-isActor(jk_simmons).
-isActor(jack_black).
-isActor(jack_dylan_grazer).
-isActor(jake_gyllenhaal).
-isActor(james_earl_jones).
-isActor(james_mcavoy).
-isActor(james_mcavoy).
-isActor(james_mcavoy).
-isActor(jamie_bell).
-isActor(jason_clarke).
-isActor(jason_schwartzman).
-isActor(jason_statham).
-isActor(jay_baruchel).
-isActor(jessie_t_usher).
-isActor(joaquin_phoenix).
-isActor(joe_alwyn).
-isActor(joe_pesci).
-isActor(john_goodman).
-isActor(john_kani).
-isActor(john_lithgow).
-isActor(john_lithgow).
-isActor(john_oliver).
-isActor(jon_bernthal).
-isActor(jonathan_majors).
-isActor(jonathan_pryce).
-isActor(juan_minujin).
-isActor(kang-ho_song).
-isActor(keanu_reeves).
-isActor(ken_watanabe).
-isActor(kenichi_masuda).
-isActor(kevin_hart).
-isActor(kumail_nanjiani).
-isActor(kumail_nanjiani).
-isActor(kyle_chandler).
-isActor(laurence_fishburne).
-isActor(leonardo_dicaprio).
-isActor(leonardo_sbaraglia).
-isActor(leslie_odom_jr).
-isActor(liam_neeson).
-isActor(ljutvie_sam).
-isActor(logan_hawkes).
-isActor(louis_ashbourne_serkis).
-isActor(luis_gnecco).
-isActor(mark_hamill).
-isActor(mark_ruffalo).
-isActor(mark_strong).
-isActor(marwan_kenzari).
-isActor(matt_damon).
-isActor(matt_lucas).
-isActor(matthew_rhys).
-isActor(mena_massound).
-isActor(michael_eklund).
-isActor(michael_fassbender).
-isActor(micheal_richardson).
-isActor(nicholas_hoult).
-isActor(oscar_isaac).
-isActor(oshea_jackson_jr).
-isActor(pattrick_d_assumcao).
-isActor(paul_walter_hauser).
-isActor(richard_madden).
-isActor(richard_roundtree).
-isActor(robert_de_niro).
-isActor(robert_de_niro).
-isActor(robert_downey_jr).
-isActor(robert_pattinson).
-isActor(rocci_williams).
-isActor(roman_griffin_davis).
-isActor(rufus_sewell).
-isActor(ryan_boz).
-isActor(sam_rockwell).
-isActor(samuel_l_jackson).
-isActor(sergio_peris-mencheta).
-isActor(seth_rogen).
-isActor(stephen_fry).
-isActor(sun-kyun_lee).
-isActor(sylvester_stallone).
-isActor(taika_waititi).
-isActor(taron_egerton).
-isActor(tim_allen).
-isActor(tom_hanks).
-isActor(tom_holland).
-isActor(tom_taylor).
-isActor(tomasz_zietek).
-isActor(tommy_lee_jones).
-isActor(tony_hale).
-isActor(vince_vaughn).
-isActor(will_sasso).
-isActor(will_smith).
-isActor(willem_dafoe).
-isActor(woo-sik_choi).
-isActor(zachary_levi).
+actor(adam_driver).
+actor(adam_driver).
+actor(al_pacino).
+actor(alan_alda).
+actor(alec_baldwin).
+actor(alexis_manenti).
+actor(alfonso_arfi).
+actor(anthony_hopkins).
+actor(antonio_banderas).
+actor(arnold_schwarzenegger).
+actor(ashton_sanders).
+actor(asier_etxeandia).
+actor(azhy_robertson).
+actor(azsher_angel).
+actor(ben_affleck).
+actor(benedict_wong).
+actor(bill_hader).
+actor(bobby_cannavale).
+actor(brad_pitt).
+actor(brad_pitt).
+actor(brandon_stanley).
+actor(bruce_willis).
+actor(charlie_hunnam).
+actor(chiwetel_ejiofor).
+actor(chris_cooper).
+actor(chris_evans).
+actor(chris_evans).
+actor(chris_hemsworth).
+actor(chris_hemsworth).
+actor(christian_bale).
+actor(clarke_peters).
+actor(clive_owen).
+actor(colin_firth).
+actor(damien_bonnard).
+actor(daniel_craig).
+actor(daniel_mays).
+actor(danny_huston).
+actor(dave_bautista).
+actor(david_harbour).
+actor(david_walliams).
+actor(dean_chaumoo).
+actor(dean-charles_chapman).
+actor(djebril_zonga).
+actor(donald_sutherland).
+actor(dwayne_johnson).
+actor(dwayne_johnson).
+actor(dwayne_johnson).
+actor(edward_norton).
+actor(emile_hirsch).
+actor(f_murray_abraham).
+actor(finn_wittrock).
+actor(frederick_schmidt).
+actor(garrett_hedlund).
+actor(george_mackay).
+actor(gerard_butler).
+actor(hakim_faris).
+actor(harris_dickinson).
+actor(harvey_keitei).
+actor(hugh_jackman).
+actor(hussein_sam).
+actor(ian_mcshane).
+actor(ian_mcshane).
+actor(idris_elba).
+actor(isaiah_mustafa).
+actor(issa_perica).
+actor(jk_simmons).
+actor(jack_black).
+actor(jack_dylan_grazer).
+actor(jake_gyllenhaal).
+actor(james_earl_jones).
+actor(james_mcavoy).
+actor(james_mcavoy).
+actor(james_mcavoy).
+actor(jamie_bell).
+actor(jason_clarke).
+actor(jason_schwartzman).
+actor(jason_statham).
+actor(jay_baruchel).
+actor(jessie_t_usher).
+actor(joaquin_phoenix).
+actor(joe_alwyn).
+actor(joe_pesci).
+actor(john_goodman).
+actor(john_kani).
+actor(john_lithgow).
+actor(john_lithgow).
+actor(john_oliver).
+actor(jon_bernthal).
+actor(jonathan_majors).
+actor(jonathan_pryce).
+actor(juan_minujin).
+actor(kang-ho_song).
+actor(keanu_reeves).
+actor(ken_watanabe).
+actor(kenichi_masuda).
+actor(kevin_hart).
+actor(kumail_nanjiani).
+actor(kumail_nanjiani).
+actor(kyle_chandler).
+actor(laurence_fishburne).
+actor(leonardo_dicaprio).
+actor(leonardo_sbaraglia).
+actor(leslie_odom_jr).
+actor(liam_neeson).
+actor(ljutvie_sam).
+actor(logan_hawkes).
+actor(louis_ashbourne_serkis).
+actor(luis_gnecco).
+actor(mark_hamill).
+actor(mark_ruffalo).
+actor(mark_strong).
+actor(marwan_kenzari).
+actor(matt_damon).
+actor(matt_lucas).
+actor(matthew_rhys).
+actor(mena_massound).
+actor(michael_eklund).
+actor(michael_fassbender).
+actor(micheal_richardson).
+actor(nicholas_hoult).
+actor(oscar_isaac).
+actor(oshea_jackson_jr).
+actor(pattrick_d_assumcao).
+actor(paul_walter_hauser).
+actor(richard_madden).
+actor(richard_roundtree).
+actor(robert_de_niro).
+actor(robert_de_niro).
+actor(robert_downey_jr).
+actor(robert_pattinson).
+actor(rocci_williams).
+actor(roman_griffin_davis).
+actor(rufus_sewell).
+actor(ryan_boz).
+actor(sam_rockwell).
+actor(samuel_l_jackson).
+actor(sergio_peris-mencheta).
+actor(seth_rogen).
+actor(stephen_fry).
+actor(sun-kyun_lee).
+actor(sylvester_stallone).
+actor(taika_waititi).
+actor(taron_egerton).
+actor(tim_allen).
+actor(tom_hanks).
+actor(tom_holland).
+actor(tom_taylor).
+actor(tomasz_zietek).
+actor(tommy_lee_jones).
+actor(tony_hale).
+actor(vince_vaughn).
+actor(will_sasso).
+actor(will_smith).
+actor(willem_dafoe).
+actor(woo-sik_choi).
+actor(zachary_levi).
 /*
     Actress object
 */
-isActress(lady_gaga).
-isActress(millicent_simmonds).
-isActress(yordanos_shiferaw).
-isActress(katherine_langford).
-isActress(sandra_bullock).
-isActress(lin_shaye).
-isActress(bronte_carmichael).
-isActress(melissa_mccarthy).
-isActress(olivia_cooke).
-isActress(anne_hathaway).
-isActress(paula_beer).
-isActress(claire_foy).
-isActress(emma_delves).
-isActress(lily_franky).
-isActress(eva_melander).
-isActress(morena_baccarin).
-isActress(kirin_kiki).
-isActress(glenn_close).
-isActress(danai_gurira).
-isActress(alicia_vikander).
-isActress(gal_gadot).
-isActress(yalitza_aparicio).
-isActress(rachel_weisz).
-isActress(marina_de_tavira).
-isActress(lucy_boynton).
-isActress(kiki_layne).
-isActress(sakura_andô).
-isActress(dolly_wells).
-isActress(olivia_colman).
-isActress(huck_milner).
-isActress(hayley_atwell).
-isActress(emily_blunt).
-isActress(hailee_steinfeld).
-isActress(angela_bain).
-isActress(regina_king).
-isActress(rebecca_hall).
-isActress(kaya_scodelario).
-isActress(joanna_kulig).
-isActress(linda_cardellini).
+actress(lady_gaga).
+actress(millicent_simmonds).
+actress(yordanos_shiferaw).
+actress(katherine_langford).
+actress(sandra_bullock).
+actress(lin_shaye).
+actress(bronte_carmichael).
+actress(melissa_mccarthy).
+actress(olivia_cooke).
+actress(anne_hathaway).
+actress(paula_beer).
+actress(claire_foy).
+actress(emma_delves).
+actress(lily_franky).
+actress(eva_melander).
+actress(morena_baccarin).
+actress(kirin_kiki).
+actress(glenn_close).
+actress(danai_gurira).
+actress(alicia_vikander).
+actress(gal_gadot).
+actress(yalitza_aparicio).
+actress(rachel_weisz).
+actress(marina_de_tavira).
+actress(lucy_boynton).
+actress(kiki_layne).
+actress(sakura_andô).
+actress(dolly_wells).
+actress(olivia_colman).
+actress(huck_milner).
+actress(hayley_atwell).
+actress(emily_blunt).
+actress(hailee_steinfeld).
+actress(angela_bain).
+actress(regina_king).
+actress(rebecca_hall).
+actress(kaya_scodelario).
+actress(joanna_kulig).
+actress(linda_cardellini).
 /*
     Actress object 2019
 */
-isActress(adriana_barraza).
-isActress(aleksandra_konieczna).
-isActress(alicia_vikander).
-isActress(america_ferrera).
-isActress(amy_seimetz).
-isActress(ana_de_armas).
-isActress(angelina_jolie).
-isActress(annie_potts).
-isActress(anya_taylor-joy).
-isActress(bartosz_bielenia).
-isActress(bryce_dallas_howard).
-isActress(caitriona_balfe).
-isActress(carrie_fisher).
-isActress(cate_bianchett).
-isActress(charlize_theron).
-isActress(charlize_theron).
-isActress(chiaki_kawamo).
-isActress(cynthia_erivo).
-isActress(daisy_ridley).
-isActress(denise_gough).
-isActress(eliza_rycembel).
-isActress(eliza_scanlen).
-isActress(elle_fanning).
-isActress(emma_watson).
-isActress(florence_pugh).
-isActress(florence_pugh).
-isActress(frances_conroy).
-isActress(gugu_mbatha-raw).
-isActress(halle_berry).
-isActress(hatidze_muratova).
-isActress(jamie_lee_curtis).
-isActress(jennifer_lawrence).
-isActress(jessica_chastain).
-isActress(jessie_buckley).
-isActress(jete_laurence).
-isActress(june_diane_raphael).
-isActress(karen_gillan).
-isActress(kathy_bates).
-isActress(kiki_sukezane).
-isActress(laura_dern).
-isActress(lena_headey).
-isActress(linda_hamilton).
-isActress(luara_dern).
-isActress(mackenzie_davis).
-isActress(margot_robbie).
-isActress(margot_robbie).
-isActress(marisa_tomei).
-isActress(mary_elizabeth_winstead).
-isActress(michelle_pfeiffer).
-isActress(milla_jovovich).
-isActress(millie_bobby_brown).
-isActress(mira_sorvino).
-isActress(naomi_scott).
-isActress(natalia_reyes).
-isActress(natalie_morales).
-isActress(nazife_muratova).
-isActress(nicole_kidman).
-isActress(nora_navas).
-isActress(paz_vega).
-isActress(rashida_jones).
-isActress(rebecca_ferguson).
-isActress(regina_hall).
-isActress(renee_zellweger).
-isActress(ruth_negga).
-isActress(saoirse_ronan).
-isActress(sasha_lane).
-isActress(scarlett_johansson).
-isActress(scarlett_johansson).
-isActress(susan_kelechi_watson).
-isActress(tessa_thompson).
-isActress(thomasin_mckenzie).
-isActress(valeriia_karaman).
-isActress(vanessa_kirby).
-isActress(vera_farmiga).
-isActress(vera_farmiga).
-isActress(victoire_du_bois).
-isActress(yeo-jeong_jo).
-isActress(zazie_beetz).
+actress(adriana_barraza).
+actress(aleksandra_konieczna).
+actress(alicia_vikander).
+actress(america_ferrera).
+actress(amy_seimetz).
+actress(ana_de_armas).
+actress(angelina_jolie).
+actress(annie_potts).
+actress(anya_taylor-joy).
+actress(bartosz_bielenia).
+actress(bryce_dallas_howard).
+actress(caitriona_balfe).
+actress(carrie_fisher).
+actress(cate_bianchett).
+actress(charlize_theron).
+actress(charlize_theron).
+actress(chiaki_kawamo).
+actress(cynthia_erivo).
+actress(daisy_ridley).
+actress(denise_gough).
+actress(eliza_rycembel).
+actress(eliza_scanlen).
+actress(elle_fanning).
+actress(emma_watson).
+actress(florence_pugh).
+actress(florence_pugh).
+actress(frances_conroy).
+actress(gugu_mbatha-raw).
+actress(halle_berry).
+actress(hatidze_muratova).
+actress(jamie_lee_curtis).
+actress(jennifer_lawrence).
+actress(jessica_chastain).
+actress(jessie_buckley).
+actress(jete_laurence).
+actress(june_diane_raphael).
+actress(karen_gillan).
+actress(kathy_bates).
+actress(kiki_sukezane).
+actress(laura_dern).
+actress(lena_headey).
+actress(linda_hamilton).
+actress(luara_dern).
+actress(mackenzie_davis).
+actress(margot_robbie).
+actress(margot_robbie).
+actress(marisa_tomei).
+actress(mary_elizabeth_winstead).
+actress(michelle_pfeiffer).
+actress(milla_jovovich).
+actress(millie_bobby_brown).
+actress(mira_sorvino).
+actress(naomi_scott).
+actress(natalia_reyes).
+actress(natalie_morales).
+actress(nazife_muratova).
+actress(nicole_kidman).
+actress(nora_navas).
+actress(paz_vega).
+actress(rashida_jones).
+actress(rebecca_ferguson).
+actress(regina_hall).
+actress(renee_zellweger).
+actress(ruth_negga).
+actress(saoirse_ronan).
+actress(sasha_lane).
+actress(scarlett_johansson).
+actress(scarlett_johansson).
+actress(susan_kelechi_watson).
+actress(tessa_thompson).
+actress(thomasin_mckenzie).
+actress(valeriia_karaman).
+actress(vanessa_kirby).
+actress(vera_farmiga).
+actress(vera_farmiga).
+actress(victoire_du_bois).
+actress(yeo-jeong_jo).
+actress(zazie_beetz).
 /*
     Director object 2018
 */
-isDirector(stefen_spielberg).
-isDirector(wes_ball).
-isDirector(anthony_russo).
-isDirector(joe_russo).
-isDirector(david_leitch).
-isDirector(peyton_reed).
-isDirector(roar_uthaug).
-isDirector(david_yates).
-isDirector(gary_ross).
-isDirector(adam_robitel).
-isDirector(greg_berlanti).
-isDirector(bradley_cooper).
-isDirector(bryan_singer).
-isDirector(peter_farrelly).
-isDirector(alfonso_cuaron).
-isDirector(yorgos_lanthimos).
-isDirector(spike_lee).
-isDirector(adam_mckay).
-isDirector(bjorn_runge).
-isDirector(julian_schnabel).
-isDirector(marielle_heller).
-isDirector(barry_jenkins).
-isDirector(brad_bird).
-isDirector(phil_johnston).
-isDirector(rich_moore).
-isDirector(bob_persichetti).
-isDirector(peter_ramsey).
-isDirector(mamoru_hosoda).
-isDirector(wes_anderson).
-isDirector(pawel_pawlikoski).
-isDirector(florian_henckel_von_donnersmarck).
-isDirector(ryan_coogler).
-isDirector(rob_marshall).
-isDirector(josie_rourke).
-isDirector(elizabeth_chai_vasarhelyi).
-isDirector(jimmy_chin).
-isDirector(ali_abbasi).
-isDirector(nadine_labaki).
-isDirector(hirokazu_koreeda).
-isDirector(damien_chazelle).
-isDirector(ron_howard).
-isDirector(marc_forster).
-isDirector(ethan_coen).
-isDirector(joel_coen).
-isDirector(john_krasinski).
+director(stefen_spielberg).
+director(wes_ball).
+director(anthony_russo).
+director(joe_russo).
+director(david_leitch).
+director(peyton_reed).
+director(roar_uthaug).
+director(david_yates).
+director(gary_ross).
+director(adam_robitel).
+director(greg_berlanti).
+director(bradley_cooper).
+director(bryan_singer).
+director(peter_farrelly).
+director(alfonso_cuaron).
+director(yorgos_lanthimos).
+director(spike_lee).
+director(adam_mckay).
+director(bjorn_runge).
+director(julian_schnabel).
+director(marielle_heller).
+director(barry_jenkins).
+director(brad_bird).
+director(phil_johnston).
+director(rich_moore).
+director(bob_persichetti).
+director(peter_ramsey).
+director(mamoru_hosoda).
+director(wes_anderson).
+director(pawel_pawlikoski).
+director(florian_henckel_von_donnersmarck).
+director(ryan_coogler).
+director(rob_marshall).
+director(josie_rourke).
+director(elizabeth_chai_vasarhelyi).
+director(jimmy_chin).
+director(ali_abbasi).
+director(nadine_labaki).
+director(hirokazu_koreeda).
+director(damien_chazelle).
+director(ron_howard).
+director(marc_forster).
+director(ethan_coen).
+director(joel_coen).
+director(john_krasinski).
 /*
     Director object 2019
 */
-isDirector(joachim_ronning).
-isDirector(tamara_kotevska).
-isDirector(adrian_grunberg).
-isDirector(andy_muschietti).
-isDirector(ang_lee).
-isDirector(anthony_russo).
-isDirector(bong_joon_ho).
-isDirector(carlos_martínez_lopez).
-isDirector(chad_stahelski).
-isDirector(chris_butler).
-isDirector(clint_eastwood).
-isDirector(david_f_dot_sandberg).
-isDirector(david_leitch).
-isDirector(dean_deblois).
-isDirector(dennis_widmyer).
-isDirector(dexter_fletcher).
-isDirector(edward_norton).
-isDirector(f_dot_gary_gray).
-isDirector(fernando_meirelles ).
-isDirector(greta_gerwig).
-isDirector(guy_ritchie).
-isDirector(hans_petter_moland).
-isDirector(j_dot_c_dot_chandor).
-isDirector(j_dot_j_dot_abrams).
-isDirector(jake_kasdan).
-isDirector(james_gray).
-isDirector(james_mangold).
-isDirector(jan_komasa).
-isDirector(jay_roach).
-isDirector(jeremy_clapin).
-isDirector(joe_cornish).
-isDirector(joe_russo).
-isDirector(jon_favreau).
-isDirector(jon_watts).
-isDirector(jonathan_levine).
-isDirector(josh_cooley).
-isDirector(kasi_lemmons).
-isDirector(kevin_kolsch).
-isDirector(ladj_ly).
-isDirector(ljubomir_stefanov).
-isDirector(m_dot_night_shyamalan).
-isDirector(marielle_heller).
-isDirector(martin_scorsese).
-isDirector(michael_dowse).
-isDirector(michale_dougherty).
-isDirector(neil_marshall).
-isDirector(noah_baumbach).
-isDirector(pedro_almodovar).
-isDirector(quentin_tarantino).
-isDirector(rian_johnson).
-isDirector(ric_roman_waugh).
-isDirector(robert_eggers).
-isDirector(rupert_goold).
-isDirector(rupert_wyatt).
-isDirector(sam_mendes).
-isDirector(sergio_pablos).
-isDirector(simon_kinberg).
-isDirector(stephen_merchant).
-isDirector(taika_waititi).
-isDirector(tim_miller).
-isDirector(tim_story).
-isDirector(todd_phillips).
-isDirector(wash_westmoreland).
+director(joachim_ronning).
+director(tamara_kotevska).
+director(adrian_grunberg).
+director(andy_muschietti).
+director(ang_lee).
+director(anthony_russo).
+director(bong_joon_ho).
+director(carlos_martínez_lopez).
+director(chad_stahelski).
+director(chris_butler).
+director(clint_eastwood).
+director(david_f_dot_sandberg).
+director(david_leitch).
+director(dean_deblois).
+director(dennis_widmyer).
+director(dexter_fletcher).
+director(edward_norton).
+director(f_dot_gary_gray).
+director(fernando_meirelles ).
+director(greta_gerwig).
+director(guy_ritchie).
+director(hans_petter_moland).
+director(j_dot_c_dot_chandor).
+director(j_dot_j_dot_abrams).
+director(jake_kasdan).
+director(james_gray).
+director(james_mangold).
+director(jan_komasa).
+director(jay_roach).
+director(jeremy_clapin).
+director(joe_cornish).
+director(joe_russo).
+director(jon_favreau).
+director(jon_watts).
+director(jonathan_levine).
+director(josh_cooley).
+director(kasi_lemmons).
+director(kevin_kolsch).
+director(ladj_ly).
+director(ljubomir_stefanov).
+director(m_dot_night_shyamalan).
+director(marielle_heller).
+director(martin_scorsese).
+director(michael_dowse).
+director(michale_dougherty).
+director(neil_marshall).
+director(noah_baumbach).
+director(pedro_almodovar).
+director(quentin_tarantino).
+director(rian_johnson).
+director(ric_roman_waugh).
+director(robert_eggers).
+director(rupert_goold).
+director(rupert_wyatt).
+director(sam_mendes).
+director(sergio_pablos).
+director(simon_kinberg).
+director(stephen_merchant).
+director(taika_waititi).
+director(tim_miller).
+director(tim_story).
+director(todd_phillips).
+director(wash_westmoreland).
 
 % distibutor objects and properties
 distributor(fuji_television_network).
@@ -702,46 +702,46 @@ distributor(opus_film).
 /*
     movie in 2018
 */
-movie(ready_player_one, 2018).
-movie(maze_runner_the_death_cure, 2018).
-movie(avengers_infinity_war, 2018).
-movie(deadpool_2, 2018).
-movie(ant_man_and_the_wasp, 2018).
-movie(tomb_raider, 2018).
-movie(fantastic_beasts_the_crimes_of_grindelwald, 2018).
-movie(oceans_eight, 2018).
-movie(insidious_the_last_key, 2018).
-movie(love_simon, 2018).
-movie(a_star_is_born, 2018).
-movie(bohemian_rhapsody, 2018).
-movie(green_book, 2018).
-movie(roma, 2018).
-movie(the_favourite, 2018).
-movie(blackkklansman, 2018).
-movie(vice, 2018).
-movie(the_wife, 2018).
-movie(at_eternitys_gate, 2018).
-movie(can_you_ever_forgive_me, 2018).
-movie(if_beale_street_could_talk, 2018).
-movie(incredibles_2, 2018).
-movie(ralph_breaks_the_internet, 2018).
-movie(spider_man_into_the_spider_verse, 2018).
-movie(mirai, 2018).
-movie(isle_of_dogs, 2018).
-movie(cold_war, 2018).
-movie(never_look_away, 2018).
-movie(black_panther, 2018).
-movie(mary_poppins_returns, 2018).
-movie(mary_queen_of_scots, 2018).
-movie(free_solo, 2018).
-movie(border, 2018).
-movie(capernaum, 2018).
-movie(shoplifters, 2018).
-movie(first_man, 2018).
-movie(solo_a_star_wars_story, 2018).
-movie(christopher_robin, 2018).
-movie(the_ballad_of_buster_scruggs, 2018).
-movie(a_quiet_place, 2018).
+movie(ready_player_one).
+movie(maze_runner_the_death_cure).
+movie(avengers_infinity_war).
+movie(deadpool_2).
+movie(ant_man_and_the_wasp).
+movie(tomb_raider).
+movie(fantastic_beasts_the_crimes_of_grindelwald).
+movie(oceans_eight).
+movie(insidious_the_last_key).
+movie(love_simon).
+movie(a_star_is_born).
+movie(bohemian_rhapsody).
+movie(green_book).
+movie(roma).
+movie(the_favourite).
+movie(blackkklansman).
+movie(vice).
+movie(the_wife).
+movie(at_eternitys_gate).
+movie(can_you_ever_forgive_me).
+movie(if_beale_street_could_talk).
+movie(incredibles_2).
+movie(ralph_breaks_the_internet).
+movie(spider_man_into_the_spider_verse).
+movie(mirai).
+movie(isle_of_dogs).
+movie(cold_war).
+movie(never_look_away).
+movie(black_panther).
+movie(mary_poppins_returns).
+movie(mary_queen_of_scots).
+movie(free_solo).
+movie(border).
+movie(capernaum).
+movie(shoplifters).
+movie(first_man).
+movie(solo_a_star_wars_story).
+movie(christopher_robin).
+movie(the_ballad_of_buster_scruggs).
+movie(a_quiet_place).
 /*
     movie in 2019
 */
@@ -1190,7 +1190,7 @@ isRated(richard_jewell,r).
 isRated(1917,r).
 isRated(parasite,r).
 isRated(les_miserables,r).
-isRated(i_lost_my_body,tv-ma).
+isRated(i_lost_my_body,r).
 
 /*
     rating of movie 2018
@@ -2133,17 +2133,17 @@ nomineeOscar(marriage_story, writing_original_screenplay).
 nomineeOscar(1917, writing_original_screenplay).
 nomineeOscar(once_upon_a_time_in_hollywood, writing_original_screenplay).
 
-%----------------------------------------------------------------------------------------------------------------------------
-
-%RULES
-
-%----------------------------------------------------------------------------------------------------------------------------
 % minimum age that allow to watch movie in each rate.
 minAgeRate(r, 17).
 minAgeRate(nc-17,18).
 minAgeRate(pg-13,13).
 minAgeRate(pg,0).
 minAgeRate(g,0).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+%RULES
+
 %----------------------------------------------------------------------------------------------------------------------------
 
 greater_than(Age, MinAgeRate) :- 
@@ -2166,18 +2166,45 @@ get_movie_by_age(Age, Movie) :-
 
 %----------------------------------------------------------------------------------------------------------------------------
 
-get_movie_won_oscar(Movie) :-
+get_movie_won_oscar_by_age(Age, Movie) :-
+(
+    get_movie_by_age(Age, Movie),
     winnerOscar(Movie, Award),
     movie(Movie), 
-    oscarAward(Award).
+    oscarAward(Award)
+).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
-get_animation_won_oscar(Movie) :-
+get_animation_won_oscar_by_age(Age, Movie) :-
+(
+    get_movie_by_age(Age, Movie),
     isGenre(Movie, animation),
     winnerOscar(Movie, Award),
     movie(Movie),
-    oscarAward(Award).
+    oscarAward(Award)
+).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+get_movie_nominee_oscar_by_age(Age, Movie) :-
+(
+    get_movie_by_age(Age, Movie),
+    nomineeOscar(Movie, Award),
+    movie(Movie), 
+    oscarAward(Award)
+).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+get_animation_nominee_oscar_by_age(Age, Movie) :-
+(
+    get_movie_by_age(Age, Movie),
+    isGenre(Movie, animation),
+    nomineeOscar(Movie, Award),
+    movie(Movie),
+    oscarAward(Award)
+).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
@@ -2217,7 +2244,6 @@ worst_rating_movie(Movie) :-
     movieRating(Movie,Rating1), \+
     (
         movieRating(Movie2, Rating2),
-        writeln(Rating1),
         Movie \= Movie2,
         Rating2 < Rating1
     ).
@@ -2282,12 +2308,61 @@ suggest_movies_by :-
 %----------------------------------------------------------------------------------------------------------------------------
 
 suggest_movies_for_user :-
+    write('Choose 1-3:'), nl,
+    write('1) All movies'), nl,
+    write('2) Movies won Oscar Award'), nl,
+    write('3) Movies nominee Oscar Award'), nl,
+    write('4) Animations won Oscar Award'), nl,
+    write('5) Animations nominee Oscar Award'), nl,
+    read(Input), nl, 
     write('How old are you?'), nl,
     read(Age), nl, 
-    setof(Movie, get_movie_by_age(Age, Movie), MoviesList),
     setof(Rated, get_rated_by_age(Age, Rated), RatedList),
-    write('Based on your age you can watch movies that are rated = '), write(RatedList),  nl,
+    (   Input = 1 ->
+        setof(Movie, get_movie_by_age(Age, Movie), MoviesList)
+    ;   Input = 2 ->
+        setof(Movie, get_movie_won_oscar_by_age(Age, Movie), MoviesList)
+    ;   Input = 3 ->
+        setof(Movie, get_movie_nominee_oscar_by_age(Age, Movie), MoviesList)
+    ;   Input = 4 ->
+        setof(Movie, get_animation_won_oscar_by_age(Age, Movie), MoviesList)
+    ;   Input = 5 ->
+        setof(Movie, get_animation_nominee_oscar_by_age(Age, Movie), MoviesList)
+    ),
+    write('Base on your age you can watch movies that are rated = '), write(RatedList),  nl,
     write('Some good movies for you = '), write(MoviesList).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+best_rating_menu :-
+    write('Choose 1-2:'), nl,
+    write('1) The Best Rating Movie'), nl,
+    write('2) The Best Rating Movie By Genre'), nl,
+    read(Input), nl,
+    (   Input = 1 ->
+        best_rating_movie(Movie), write('The best rating movie ever is = '), write(Movie)
+    ;   Input = 2 ->
+        write('Which genre? (e.g. action)'), nl,
+        read(Genre), nl,
+        best_rating_movie_by_genre(Movie, Genre), 
+        write('The best rating movie in '), write(Genre), write(' genre is = '), write(Movie)
+    ).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+worst_rating_menu :-
+    write('Choose 1-2:'), nl,
+    write('1) The Worst Rating Movie'), nl,
+    write('2) The Worst Rating Movie By Genre'), nl,
+    read(Input), nl,
+    (   Input = 1 ->
+        worst_rating_movie(Movie), write('The worst rating movie ever is = '), write(Movie)
+    ;   Input = 2 ->
+        write('Which genre? (e.g. action)'), nl,
+        read(Genre), nl,
+        worst_rating_movie_by_genre(Movie, Genre), 
+        write('The worst rating movie in '), write(Genre), write(' genre is = '), write(Movie)
+    ).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
@@ -2296,26 +2371,16 @@ main :-
     write('1) Suggest movies by ...'), nl,
     write('2) The Best Rating Movie'), nl,
     write('3) The Worst Rating Movie'), nl,
-    write('4) The Best Rating Movie By Genre'), nl,
-    write('5) The Worst Rating Movie By Genre'), nl,
-    write('6) The movie in Oscar details.'), nl,
-    write('7) Suggest me some movies'), nl,
+    write('4) The movie in Oscar details.'), nl,
+    write('5) Suggest me some movies'), nl,
     read(Input), nl,
     (   Input = 1 ->
         suggest_movies_by
     ;   Input = 2 ->
-        best_rating_movie(Movie), write('the best rating movie ever is = '), writeln(Movie)
+        best_rating_menu
     ;   Input = 3 ->
-        worst_rating_movie(Movie), write('the worst rating movie ever is = '), writeln(Movie)
+        worst_rating_menu
     ;   Input = 4 ->
-        write('Which genre?'), nl,
-        read(Genre), nl,
-        best_rating_movie_by_genre(Movie, Genre), write('the best rating movie in this genre is = '), writeln(Movie)
-    ;   Input = 5 ->
-        write('Which genre?'), nl,
-        read(Genre), nl,
-        worst_rating_movie_by_genre(Movie, Genre), write('the worst rating movie in this genre is = '), writeln(Movie)
-    ;   Input = 6 ->
         writeln('Type the movie you want to know about (e.g. 1917)'), 
         read(Movie),
         movie_award_listing(Movie, OscarAward, OscarNominee), 
@@ -2324,7 +2389,7 @@ main :-
         write(' Award(s) And '),
         write(OscarNominee),
         write(' Nominee(s)')
-    ;   Input = 7 ->
+    ;   Input = 5 ->
         suggest_movies_for_user
     ;   writeln('this choice is not available.'),
         fail
