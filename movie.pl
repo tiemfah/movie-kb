@@ -1924,214 +1924,214 @@ oscarAward(writing_original_screenplay).
 /*
     Winner of Oscar 2019
 */
-winnerOscar(rami_malek, actor_in_a_leading_role).
-winnerOscar(mahershala_ali, actor_in_a_supporting_role).
-winnerOscar(olivia_colman, actress_in_a_leading_role).
-winnerOscar(regina_king, actress_in_a_supporting_role).
-winnerOscar(spider_man_into_the_spider-verse, animated_feature_film).
-winnerOscar(roma, cinematography).
-winnerOscar(black_panther, costume_design).
-winnerOscar(roma, directing).
-winnerOscar(bohemian_rhapsody, film_editing).
-winnerOscar(roma, foreign_language_film).
-winnerOscar(vice, makeup_and_hairstyling).
-winnerOscar(black_panther, music_original_score).
-winnerOscar(green_book, best_picture).
-winnerOscar(black_panther, production_design).
-winnerOscar(bohemian_rhapsody, sound_editing).
-winnerOscar(bohemian_rhapsody, sound_mixing).
-winnerOscar(first_man, visual_effects).
-winnerOscar(blackkklansman, writing_adapted_screenplay).
-winnerOscar(green_book, writing_original_screenplay).
+winnerOscar(rami_malek, actor_in_a_leading_role, 2019).
+winnerOscar(mahershala_ali, actor_in_a_supporting_role, 2019).
+winnerOscar(olivia_colman, actress_in_a_leading_role, 2019).
+winnerOscar(regina_king, actress_in_a_supporting_role, 2019).
+winnerOscar(spider_man_into_the_spider-verse, animated_feature_film, 2019).
+winnerOscar(roma, cinematography, 2019).
+winnerOscar(black_panther, costume_design, 2019).
+winnerOscar(roma, directing, 2019).
+winnerOscar(bohemian_rhapsody, film_editing, 2019).
+winnerOscar(roma, foreign_language_film, 2019).
+winnerOscar(vice, makeup_and_hairstyling, 2019).
+winnerOscar(black_panther, music_original_score, 2019).
+winnerOscar(green_book, best_picture, 2019).
+winnerOscar(black_panther, production_design, 2019).
+winnerOscar(bohemian_rhapsody, sound_editing, 2019).
+winnerOscar(bohemian_rhapsody, sound_mixing, 2019).
+winnerOscar(first_man, visual_effects, 2019).
+winnerOscar(blackkklansman, writing_adapted_screenplay, 2019).
+winnerOscar(green_book, writing_original_screenplay, 2019).
 
 /*
     Winner of Oscar 2020
 */
-winnerOscar(joaquin_phoenix, actor_in_a_leading_role).
-winnerOscar(brad_pitt, actor_in_a_supporting_role).
-winnerOscar(renée_zellweger, actress_in_a_leading_role).
-winnerOscar(laura_dern, actress_in_a_supporting_role).
-winnerOscar(toy_story_4, animated_feature_film).
-winnerOscar(1917, cinematography).
-winnerOscar(little_women, costume_design).
-winnerOscar(parasite, directing).
-winnerOscar(ford_v_ferrari, film_editing).
-winnerOscar(parasite, foreign_language_film).
-winnerOscar(bombshell, makeup_and_hairstyling).
-winnerOscar(joker, music_original_score).
-winnerOscar(parasite, best_picture).
-winnerOscar(once_upon_a_time_in_hollywood, production_design).
-winnerOscar(ford_v_ferrari, sound_editing).
-winnerOscar(1917, sound_mixing).
-winnerOscar(1917, visual_effects).
-winnerOscar(jojo_rabbit, writing_adapted_screenplay).
-winnerOscar(parasite, writing_original_screenplay).
+winnerOscar(joaquin_phoenix, actor_in_a_leading_role, 2020).
+winnerOscar(brad_pitt, actor_in_a_supporting_role, 2020).
+winnerOscar(renée_zellweger, actress_in_a_leading_role, 2020).
+winnerOscar(laura_dern, actress_in_a_supporting_role, 2020).
+winnerOscar(toy_story_4, animated_feature_film, 2020).
+winnerOscar(1917, cinematography, 2020).
+winnerOscar(little_women, costume_design, 2020).
+winnerOscar(parasite, directing, 2020).
+winnerOscar(ford_v_ferrari, film_editing, 2020).
+winnerOscar(parasite, foreign_language_film, 2020).
+winnerOscar(bombshell, makeup_and_hairstyling, 2020).
+winnerOscar(joker, music_original_score, 2020).
+winnerOscar(parasite, best_picture, 2020).
+winnerOscar(once_upon_a_time_in_hollywood, production_design, 2020).
+winnerOscar(ford_v_ferrari, sound_editing, 2020).
+winnerOscar(1917, sound_mixing, 2020).
+winnerOscar(1917, visual_effects, 2020).
+winnerOscar(jojo_rabbit, writing_adapted_screenplay, 2020).
+winnerOscar(parasite, writing_original_screenplay, 2020).
 
 % Oscar nominee of every awards.
 /*
     Nominee of Oscar 2019
 */
-nomineeOscar(christian_bale, actor_in_a_leading_role).
-nomineeOscar(bradley_cooper, actor_in_a_leading_role).
-nomineeOscar(willem_dafoe, actor_in_a_leading_role).
-nomineeOscar(viggo_mortensen, actor_in_a_leading_role).
-nomineeOscar(adam_driver, actor_in_a_supporting_role).
-nomineeOscar(sam_elliott, actor_in_a_supporting_role).
-nomineeOscar(richard_jenkins, actor_in_a_supporting_role).
-nomineeOscar(sam_rockwell, actor_in_a_supporting_role).
-nomineeOscar(yalitza_aparicio, actress_in_a_leading_role).
-nomineeOscar(glenn_close, actress_in_a_leading_role).
-nomineeOscar(lady_gaga, actress_in_a_leading_role).
-nomineeOscar(melissa_mccarthy, actress_in_a_leading_role).
-nomineeOscar(amy_adams, actress_in_a_supporting_role).
-nomineeOscar(marina_de_tavira, actress_in_a_supporting_role).
-nomineeOscar(emma_stone, actress_in_a_supporting_role).
-nomineeOscar(rachel_weisz, actress_in_a_supporting_role).
-nomineeOscar(incredibles_2, animated_feature_film).
-nomineeOscar(isle_of_dogs, animated_feature_film).
-nomineeOscar(mirai, animated_feature_film).
-nomineeOscar(ralph_breaks_the_internet, animated_feature_film).
-nomineeOscar(cold_war, cinematography).
-nomineeOscar(the_favourite, cinematography).
-nomineeOscar(never_look_away, cinematography).
-nomineeOscar(a_star_is_born, cinematography).
-nomineeOscar(the_ballad_of_buster_scruggs, costume_design).
-nomineeOscar(the_favourite, costume_design).
-nomineeOscar(mary_poppins_returns, costume_design).
-nomineeOscar(mary_queen_of_scots, costume_design).
-nomineeOscar(blackkklansman, directing).
-nomineeOscar(cold_war, directing).
-nomineeOscar(the_favourite, directing).
-nomineeOscar(vice, directing).
-nomineeOscar(blackkklansman, film_editing).
-nomineeOscar(the_favourite, film_editing).
-nomineeOscar(green_book, film_editing).
-nomineeOscar(vice, film_editing).
-nomineeOscar(capernaum, foreign_language_film).
-nomineeOscar(cold_war, foreign_language_film).
-nomineeOscar(never_look_away, foreign_language_film).
-nomineeOscar(shoplifters, foreign_language_film).
-nomineeOscar(border, makeup_and_hairstyling).
-nomineeOscar(mary_queen_of_scots, makeup_and_hairstyling).
-nomineeOscar(blackkklansman, music_original_score).
-nomineeOscar(if_beale_street_could_talk, music_original_score).
-nomineeOscar(isle_of_dogs, music_original_score).
-nomineeOscar(mary_poppins_returns, music_original_score).
-nomineeOscar(black_panther, best_picture).
-nomineeOscar(blackkklansman, best_picture).
-nomineeOscar(bohemian_rhapsody, best_picture).
-nomineeOscar(the_favourite, best_picture).
-nomineeOscar(roma, best_picture).
-nomineeOscar(a_star_is_born, best_picture).
-nomineeOscar(vice, best_picture).
-nomineeOscar(the_favourite, production_design).
-nomineeOscar(first_man, production_design).
-nomineeOscar(mary_poppins_returns, production_design).
-nomineeOscar(roma, production_design).
-nomineeOscar(black_panther, sound_editing).
-nomineeOscar(first_man, sound_editing).
-nomineeOscar(a_quiet_place, sound_editing).
-nomineeOscar(roma, sound_editing).
-nomineeOscar(black_panther, sound_mixing).
-nomineeOscar(first_man, sound_mixing).
-nomineeOscar(roma, sound_mixing).
-nomineeOscar(a_star_is_born, sound_mixing).
-nomineeOscar(avengers_infinity_war, visual_effects).
-nomineeOscar(christopher_robin, visual_effects).
-nomineeOscar(ready_player_one, visual_effects).
-nomineeOscar(solo_a_star_wars_story, visual_effects).
-nomineeOscar(the_ballad_of_buster_scruggs, writing_adapted_screenplay).
-nomineeOscar(can_you_ever_forgive_me, writing_adapted_screenplay).
-nomineeOscar(if_beale_street_could_talk, writing_adapted_screenplay).
-nomineeOscar(a_star_is_born, writing_adapted_screenplay).
-nomineeOscar(the_favourite, writing_original_screenplay).
-nomineeOscar(first_reformed, writing_original_screenplay).
-nomineeOscar(roma, writing_original_screenplay).
-nomineeOscar(vice, writing_original_screenplay).
+nomineeOscar(christian_bale, actor_in_a_leading_role, 2019).
+nomineeOscar(bradley_cooper, actor_in_a_leading_role, 2019).
+nomineeOscar(willem_dafoe, actor_in_a_leading_role, 2019).
+nomineeOscar(viggo_mortensen, actor_in_a_leading_role, 2019).
+nomineeOscar(adam_driver, actor_in_a_supporting_role, 2019).
+nomineeOscar(sam_elliott, actor_in_a_supporting_role, 2019).
+nomineeOscar(richard_jenkins, actor_in_a_supporting_role, 2019).
+nomineeOscar(sam_rockwell, actor_in_a_supporting_role, 2019).
+nomineeOscar(yalitza_aparicio, actress_in_a_leading_role, 2019).
+nomineeOscar(glenn_close, actress_in_a_leading_role, 2019).
+nomineeOscar(lady_gaga, actress_in_a_leading_role, 2019).
+nomineeOscar(melissa_mccarthy, actress_in_a_leading_role, 2019).
+nomineeOscar(amy_adams, actress_in_a_supporting_role, 2019).
+nomineeOscar(marina_de_tavira, actress_in_a_supporting_role, 2019).
+nomineeOscar(emma_stone, actress_in_a_supporting_role, 2019).
+nomineeOscar(rachel_weisz, actress_in_a_supporting_role, 2019).
+nomineeOscar(incredibles_2, animated_feature_film, 2019).
+nomineeOscar(isle_of_dogs, animated_feature_film, 2019).
+nomineeOscar(mirai, animated_feature_film, 2019).
+nomineeOscar(ralph_breaks_the_internet, animated_feature_film, 2019).
+nomineeOscar(cold_war, cinematography, 2019).
+nomineeOscar(the_favourite, cinematography, 2019).
+nomineeOscar(never_look_away, cinematography, 2019).
+nomineeOscar(a_star_is_born, cinematography, 2019).
+nomineeOscar(the_ballad_of_buster_scruggs, costume_design, 2019).
+nomineeOscar(the_favourite, costume_design, 2019).
+nomineeOscar(mary_poppins_returns, costume_design, 2019).
+nomineeOscar(mary_queen_of_scots, costume_design, 2019).
+nomineeOscar(blackkklansman, directing, 2019).
+nomineeOscar(cold_war, directing, 2019).
+nomineeOscar(the_favourite, directing, 2019).
+nomineeOscar(vice, directing, 2019).
+nomineeOscar(blackkklansman, film_editing, 2019).
+nomineeOscar(the_favourite, film_editing, 2019).
+nomineeOscar(green_book, film_editing, 2019).
+nomineeOscar(vice, film_editing, 2019).
+nomineeOscar(capernaum, foreign_language_film, 2019).
+nomineeOscar(cold_war, foreign_language_film, 2019).
+nomineeOscar(never_look_away, foreign_language_film, 2019).
+nomineeOscar(shoplifters, foreign_language_film, 2019).
+nomineeOscar(border, makeup_and_hairstyling, 2019).
+nomineeOscar(mary_queen_of_scots, makeup_and_hairstyling, 2019).
+nomineeOscar(blackkklansman, music_original_score, 2019).
+nomineeOscar(if_beale_street_could_talk, music_original_score, 2019).
+nomineeOscar(isle_of_dogs, music_original_score, 2019).
+nomineeOscar(mary_poppins_returns, music_original_score, 2019).
+nomineeOscar(black_panther, best_picture, 2019).
+nomineeOscar(blackkklansman, best_picture, 2019).
+nomineeOscar(bohemian_rhapsody, best_picture, 2019).
+nomineeOscar(the_favourite, best_picture, 2019).
+nomineeOscar(roma, best_picture, 2019).
+nomineeOscar(a_star_is_born, best_picture, 2019).
+nomineeOscar(vice, best_picture, 2019).
+nomineeOscar(the_favourite, production_design, 2019).
+nomineeOscar(first_man, production_design, 2019).
+nomineeOscar(mary_poppins_returns, production_design, 2019).
+nomineeOscar(roma, production_design, 2019).
+nomineeOscar(black_panther, sound_editing, 2019).
+nomineeOscar(first_man, sound_editing, 2019).
+nomineeOscar(a_quiet_place, sound_editing, 2019).
+nomineeOscar(roma, sound_editing, 2019).
+nomineeOscar(black_panther, sound_mixing, 2019).
+nomineeOscar(first_man, sound_mixing, 2019).
+nomineeOscar(roma, sound_mixing, 2019).
+nomineeOscar(a_star_is_born, sound_mixing, 2019).
+nomineeOscar(avengers_infinity_war, visual_effects, 2019).
+nomineeOscar(christopher_robin, visual_effects, 2019).
+nomineeOscar(ready_player_one, visual_effects, 2019).
+nomineeOscar(solo_a_star_wars_story, visual_effects, 2019).
+nomineeOscar(the_ballad_of_buster_scruggs, writing_adapted_screenplay, 2019).
+nomineeOscar(can_you_ever_forgive_me, writing_adapted_screenplay, 2019).
+nomineeOscar(if_beale_street_could_talk, writing_adapted_screenplay, 2019).
+nomineeOscar(a_star_is_born, writing_adapted_screenplay, 2019).
+nomineeOscar(the_favourite, writing_original_screenplay, 2019).
+nomineeOscar(first_reformed, writing_original_screenplay, 2019).
+nomineeOscar(roma, writing_original_screenplay, 2019).
+nomineeOscar(vice, writing_original_screenplay, 2019).
 
 /*
     Nominee of Oscar 2020
 */
-nomineeOscar(antonio_banderas, actor_in_a_leading_role).
-nomineeOscar(leonardo_dicaprio, actor_in_a_leading_role).
-nomineeOscar(adam_driver, actor_in_a_leading_role).
-nomineeOscar(jonathan_pryce, actor_in_a_leading_role).
-nomineeOscar(tom_hanks, actor_in_a_supporting_role).
-nomineeOscar(anthony_hopkins, actor_in_a_supporting_role).
-nomineeOscar(al_pacino, actor_in_a_supporting_role).
-nomineeOscar(joe_pesci, actor_in_a_supporting_role).
-nomineeOscar(cynthia_erivo, actress_in_a_leading_role).
-nomineeOscar(scarlett_johansson, actress_in_a_leading_role).
-nomineeOscar(saoirse_ronan, actress_in_a_leading_role).
-nomineeOscar(charlize_theron, actress_in_a_leading_role).
-nomineeOscar(kathy_bates, actress_in_a_supporting_role).
-nomineeOscar(scarlett_johansson, actress_in_a_supporting_role).
-nomineeOscar(florence_pugh, actress_in_a_supporting_role).
-nomineeOscar(margot_robbie, actress_in_a_supporting_role).
-nomineeOscar(how_to_train_your_dragon_the_hidden_world, animated_feature_film).
-nomineeOscar(i_lost_my_body, animated_feature_film).
-nomineeOscar(klaus, animated_feature_film).
-nomineeOscar(missing_link, animated_feature_film).
-nomineeOscar(the_irishman, cinematography).
-nomineeOscar(joker, cinematography).
-nomineeOscar(the_lighthouse, cinematography).
-nomineeOscar(once_upon_a_time_in_hollywood, cinematography).
-nomineeOscar(the_irishman, costume_design).
-nomineeOscar(jojo_rabbit, costume_design).
-nomineeOscar(joker, costume_design).
-nomineeOscar(once_upon_a_time_in_hollywood, costume_design).
-nomineeOscar(the_irishman, directing).
-nomineeOscar(joker, directing).
-nomineeOscar(1917, directing).
-nomineeOscar(once_upon_a_time_in_hollywood, directing).
-nomineeOscar(the_irishman, film_editing).
-nomineeOscar(jojo_rabbit, film_editing).
-nomineeOscar(joker, film_editing).
-nomineeOscar(parasite, film_editing).
-nomineeOscar(corpus_christi, foreign_language_film).
-nomineeOscar(honeyland, foreign_language_film).
-nomineeOscar(les_misérables, foreign_language_film).
-nomineeOscar(pain_and_glory, foreign_language_film).
-nomineeOscar(joker, makeup_and_hairstyling).
-nomineeOscar(judy, makeup_and_hairstyling).
-nomineeOscar(maleficent_mistress_of_evil, makeup_and_hairstyling).
-nomineeOscar(1917, makeup_and_hairstyling).
-nomineeOscar(little_women, music_original_score).
-nomineeOscar(marriage_story, music_original_score).
-nomineeOscar(1917, music_original_score).
-nomineeOscar(star_wars_the_rise_of_skywalker, music_original_score).
-nomineeOscar(ford_v_ferrari, best_picture).
-nomineeOscar(the_irishman, best_picture).
-nomineeOscar(jojo_rabbit, best_picture).
-nomineeOscar(joker, best_picture).
-nomineeOscar(little_women, best_picture).
-nomineeOscar(marriage_story, best_picture).
-nomineeOscar(1917, best_picture).
-nomineeOscar(once_upon_a_time_in_hollywood, best_picture).
-nomineeOscar(the_irishman, production_design).
-nomineeOscar(jojo_rabbit, production_design).
-nomineeOscar(1917, production_design).
-nomineeOscar(parasite, production_design).
-nomineeOscar(joker, sound_editing).
-nomineeOscar(1917, sound_editing).
-nomineeOscar(once_upon_a_time_in_hollywood, sound_editing).
-nomineeOscar(star_wars_the_rise_of_skywalker, sound_editing).
-nomineeOscar(ad_astra, sound_mixing).
-nomineeOscar(ford_v_ferrari, sound_mixing).
-nomineeOscar(joker, sound_mixing).
-nomineeOscar(once_upon_a_time_in_hollywood, sound_mixing).
-nomineeOscar(avengers_endgame, visual_effects).
-nomineeOscar(the_irishman, visual_effects).
-nomineeOscar(the_lion_king, visual_effects).
-nomineeOscar(star_wars_the_rise_of_skywalker, visual_effects).
-nomineeOscar(the_irishman, writing_adapted_screenplay).
-nomineeOscar(joker, writing_adapted_screenplay).
-nomineeOscar(little_women, writing_adapted_screenplay).
-nomineeOscar(the_two_popes, writing_adapted_screenplay).
-nomineeOscar(knives_out, writing_original_screenplay).
-nomineeOscar(marriage_story, writing_original_screenplay).
-nomineeOscar(1917, writing_original_screenplay).
-nomineeOscar(once_upon_a_time_in_hollywood, writing_original_screenplay).
+nomineeOscar(antonio_banderas, actor_in_a_leading_role, 2020).
+nomineeOscar(leonardo_dicaprio, actor_in_a_leading_role, 2020).
+nomineeOscar(adam_driver, actor_in_a_leading_role, 2020).
+nomineeOscar(jonathan_pryce, actor_in_a_leading_role, 2020).
+nomineeOscar(tom_hanks, actor_in_a_supporting_role, 2020).
+nomineeOscar(anthony_hopkins, actor_in_a_supporting_role, 2020).
+nomineeOscar(al_pacino, actor_in_a_supporting_role, 2020).
+nomineeOscar(joe_pesci, actor_in_a_supporting_role, 2020).
+nomineeOscar(cynthia_erivo, actress_in_a_leading_role, 2020).
+nomineeOscar(scarlett_johansson, actress_in_a_leading_role, 2020).
+nomineeOscar(saoirse_ronan, actress_in_a_leading_role, 2020).
+nomineeOscar(charlize_theron, actress_in_a_leading_role, 2020).
+nomineeOscar(kathy_bates, actress_in_a_supporting_role, 2020).
+nomineeOscar(scarlett_johansson, actress_in_a_supporting_role, 2020).
+nomineeOscar(florence_pugh, actress_in_a_supporting_role, 2020).
+nomineeOscar(margot_robbie, actress_in_a_supporting_role, 2020).
+nomineeOscar(how_to_train_your_dragon_the_hidden_world, animated_feature_film, 2020).
+nomineeOscar(i_lost_my_body, animated_feature_film, 2020).
+nomineeOscar(klaus, animated_feature_film, 2020).
+nomineeOscar(missing_link, animated_feature_film, 2020).
+nomineeOscar(the_irishman, cinematography, 2020).
+nomineeOscar(joker, cinematography, 2020).
+nomineeOscar(the_lighthouse, cinematography, 2020).
+nomineeOscar(once_upon_a_time_in_hollywood, cinematography, 2020).
+nomineeOscar(the_irishman, costume_design, 2020).
+nomineeOscar(jojo_rabbit, costume_design, 2020).
+nomineeOscar(joker, costume_design, 2020).
+nomineeOscar(once_upon_a_time_in_hollywood, costume_design, 2020).
+nomineeOscar(the_irishman, directing, 2020).
+nomineeOscar(joker, directing, 2020).
+nomineeOscar(1917, directing, 2020).
+nomineeOscar(once_upon_a_time_in_hollywood, directing, 2020).
+nomineeOscar(the_irishman, film_editing, 2020).
+nomineeOscar(jojo_rabbit, film_editing, 2020).
+nomineeOscar(joker, film_editing, 2020).
+nomineeOscar(parasite, film_editing, 2020).
+nomineeOscar(corpus_christi, foreign_language_film, 2020).
+nomineeOscar(honeyland, foreign_language_film, 2020).
+nomineeOscar(les_misérables, foreign_language_film, 2020).
+nomineeOscar(pain_and_glory, foreign_language_film, 2020).
+nomineeOscar(joker, makeup_and_hairstyling, 2020).
+nomineeOscar(judy, makeup_and_hairstyling, 2020).
+nomineeOscar(maleficent_mistress_of_evil, makeup_and_hairstyling, 2020).
+nomineeOscar(1917, makeup_and_hairstyling, 2020).
+nomineeOscar(little_women, music_original_score, 2020).
+nomineeOscar(marriage_story, music_original_score, 2020).
+nomineeOscar(1917, music_original_score, 2020).
+nomineeOscar(star_wars_the_rise_of_skywalker, music_original_score, 2020).
+nomineeOscar(ford_v_ferrari, best_picture, 2020).
+nomineeOscar(the_irishman, best_picture, 2020).
+nomineeOscar(jojo_rabbit, best_picture, 2020).
+nomineeOscar(joker, best_picture, 2020).
+nomineeOscar(little_women, best_picture, 2020).
+nomineeOscar(marriage_story, best_picture, 2020).
+nomineeOscar(1917, best_picture, 2020).
+nomineeOscar(once_upon_a_time_in_hollywood, best_picture, 2020).
+nomineeOscar(the_irishman, production_design, 2020).
+nomineeOscar(jojo_rabbit, production_design, 2020).
+nomineeOscar(1917, production_design, 2020).
+nomineeOscar(parasite, production_design, 2020).
+nomineeOscar(joker, sound_editing, 2020).
+nomineeOscar(1917, sound_editing, 2020).
+nomineeOscar(once_upon_a_time_in_hollywood, sound_editing, 2020).
+nomineeOscar(star_wars_the_rise_of_skywalker, sound_editing, 2020).
+nomineeOscar(ad_astra, sound_mixing, 2020).
+nomineeOscar(ford_v_ferrari, sound_mixing, 2020).
+nomineeOscar(joker, sound_mixing, 2020).
+nomineeOscar(once_upon_a_time_in_hollywood, sound_mixing, 2020).
+nomineeOscar(avengers_endgame, visual_effects, 2020).
+nomineeOscar(the_irishman, visual_effects, 2020).
+nomineeOscar(the_lion_king, visual_effects, 2020).
+nomineeOscar(star_wars_the_rise_of_skywalker, visual_effects, 2020).
+nomineeOscar(the_irishman, writing_adapted_screenplay, 2020).
+nomineeOscar(joker, writing_adapted_screenplay, 2020).
+nomineeOscar(little_women, writing_adapted_screenplay, 2020).
+nomineeOscar(the_two_popes, writing_adapted_screenplay, 2020).
+nomineeOscar(knives_out, writing_original_screenplay, 2020).
+nomineeOscar(marriage_story, writing_original_screenplay, 2020).
+nomineeOscar(1917, writing_original_screenplay, 2020).
+nomineeOscar(once_upon_a_time_in_hollywood, writing_original_screenplay, 2020).
 
 % minimum age that allow to watch movie in each rate.
 minAgeRate(r, 17).
@@ -2166,12 +2166,24 @@ get_movie_by_age(Age, Movie) :-
 
 %----------------------------------------------------------------------------------------------------------------------------
 
+get_animation_won_oscar(Movie) :-
+(
+    isGenre(Movie, animation),
+    winnerOscar(Movie, Award, Year),
+    movie(Movie),
+    oscarAward(Award),
+    Year > 2018, Year < 2021
+).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
 get_movie_won_oscar_by_age(Age, Movie) :-
 (
     get_movie_by_age(Age, Movie),
-    winnerOscar(Movie, Award),
+    winnerOscar(Movie, Award, Year),
     movie(Movie), 
-    oscarAward(Award)
+    oscarAward(Award),
+    Year > 2018, Year < 2021
 ).
 
 %----------------------------------------------------------------------------------------------------------------------------
@@ -2180,9 +2192,10 @@ get_animation_won_oscar_by_age(Age, Movie) :-
 (
     get_movie_by_age(Age, Movie),
     isGenre(Movie, animation),
-    winnerOscar(Movie, Award),
+    winnerOscar(Movie, Award, Year),
     movie(Movie),
-    oscarAward(Award)
+    oscarAward(Award),
+    Year > 2018, Year < 2021
 ).
 
 %----------------------------------------------------------------------------------------------------------------------------
@@ -2190,9 +2203,10 @@ get_animation_won_oscar_by_age(Age, Movie) :-
 get_movie_nominee_oscar_by_age(Age, Movie) :-
 (
     get_movie_by_age(Age, Movie),
-    nomineeOscar(Movie, Award),
+    nomineeOscar(Movie, Award, Year),
     movie(Movie), 
-    oscarAward(Award)
+    oscarAward(Award),
+    Year > 2018, Year < 2021
 ).
 
 %----------------------------------------------------------------------------------------------------------------------------
@@ -2201,20 +2215,23 @@ get_animation_nominee_oscar_by_age(Age, Movie) :-
 (
     get_movie_by_age(Age, Movie),
     isGenre(Movie, animation),
-    nomineeOscar(Movie, Award),
+    nomineeOscar(Movie, Award, Year),
     movie(Movie),
-    oscarAward(Award)
+    oscarAward(Award),
+    Year > 2018, Year < 2021
 ).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
 get_movie_oscar_count(Movie, OscarType, Count) :-
-    aggregate_all(count, winnerOscar(Movie, OscarType), Count).
+    aggregate_all(count, winnerOscar(Movie, OscarType, Year), Count),
+    Year > 2018.
 
 %----------------------------------------------------------------------------------------------------------------------------
 
 get_movie_oscar_nomi_count(Movie, OscarNomiType, Count) :-
-    aggregate_all(count, nomineeOscar(Movie, OscarNomiType), Count).
+    aggregate_all(count, nomineeOscar(Movie, OscarNomiType, Year), Count),
+    Year > 2018.
 
 %----------------------------------------------------------------------------------------------------------------------------
 
@@ -2265,6 +2282,18 @@ worst_rating_movie_by_genre(Movie, Genre) :-
 movie_award_listing(Movie, OscarAward, OscarNominee) :-
     get_movie_oscar_count(Movie, X, OscarAward),
     get_movie_oscar_nomi_count(Movie, X, OscarNominee).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+rating_more_than_winner(Movie, OscarType, Year) :- 
+    movieRating(Movie2,Rating2), 
+    winnerOscar(Movie2, OscarType, Year), \+
+    (
+        movieRating(Movie,Rating1), 
+        nomineeOscar(Movie, OscarType, Year),
+        Movie2 \= Movie,
+        Rating1 > Rating2
+    ).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
@@ -2366,13 +2395,26 @@ worst_rating_menu :-
 
 %----------------------------------------------------------------------------------------------------------------------------
 
+suggest_oscar :-
+    write('Enter award name (e.g. best_picture) '), nl,
+    read(Award), nl,
+    write('Enter award year [2019/2020]: '), nl,
+    read(Year), nl,
+    setof(Movie, winnerOscar(Movie, Award, Year), Winner),
+    setof(Movie, nomineeOscar(Movie, Award, Year), NomineeList),
+    write('Winner of '), write(Award), write(' award '), write(Year), write(' = '), write(Winner), nl,
+    write('Nominees of '), write(Award), write(' award '), write(Year), write(' = '), write(NomineeList).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
 main :-
     write('Choose 1-5:'), nl,
     write('1) Suggest movies by ...'), nl,
     write('2) The Best Rating Movie'), nl,
     write('3) The Worst Rating Movie'), nl,
     write('4) The movie in Oscar details.'), nl,
-    write('5) Suggest me some movies'), nl,
+    write('5) Oscar Award details'), nl,
+    write('6) Suggest me some movies'), nl,
     read(Input), nl,
     (   Input = 1 ->
         suggest_movies_by
@@ -2390,6 +2432,8 @@ main :-
         write(OscarNominee),
         write(' Nominee(s)')
     ;   Input = 5 ->
+        suggest_oscar
+    ;   Input = 6 ->
         suggest_movies_for_user
     ;   writeln('this choice is not available.'),
         fail
