@@ -2367,7 +2367,7 @@ worst_rating_menu :-
 %----------------------------------------------------------------------------------------------------------------------------
 
 main :-
-    write('Choose 1-N:'), nl,
+    write('Choose 1-5:'), nl,
     write('1) Suggest movies by ...'), nl,
     write('2) The Best Rating Movie'), nl,
     write('3) The Worst Rating Movie'), nl,
