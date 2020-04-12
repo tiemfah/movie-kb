@@ -2181,6 +2181,16 @@ get_animation_won_oscar(Movie) :-
 
 %----------------------------------------------------------------------------------------------------------------------------
 
+get_movie_oscar_count(Movie, OscarType, Count) :-
+    aggregate_all(count, winnerOscar(Movie, OscarType), Count).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+get_movie_oscar_nomi_count(Movie, OscarNomiType, Count) :-
+    aggregate_all(count, nomineeOscar(Movie, OscarNomiType), Count).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
 best_rating_movie(Movie) :-
     movieRating(Movie,Rating1), \+
     (
@@ -2223,6 +2233,14 @@ worst_rating_movie_by_genre(Movie, Genre) :-
         Movie \= Movie2,
         Rating2 < Rating1
     ).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
+movie_award_listing(Movie, OscarAward, OscarNominee) :-
+    get_movie_oscar_count(Movie, X, OscarAward),
+    get_movie_oscar_nomi_count(Movie, X, OscarNominee).
+
+%----------------------------------------------------------------------------------------------------------------------------
 
 suggest_movies_by :-
     write('Choose 1-5:'), nl,
@@ -2280,7 +2298,8 @@ main :-
     write('3) The Worst Rating Movie'), nl,
     write('4) The Best Rating Movie By Genre'), nl,
     write('5) The Worst Rating Movie By Genre'), nl,
-    write('6) Suggest me some movies'), nl,
+    write('6) The movie in Oscar details.'), nl,
+    write('7) Suggest me some movies'), nl,
     read(Input), nl,
     (   Input = 1 ->
         suggest_movies_by
@@ -2297,6 +2316,15 @@ main :-
         read(Genre), nl,
         worst_rating_movie_by_genre(Movie, Genre), write('the worst rating movie in this genre is = '), writeln(Movie)
     ;   Input = 6 ->
+        writeln('Type the movie you want to know about (e.g. 1917)'), 
+        read(Movie),
+        movie_award_listing(Movie, OscarAward, OscarNominee), 
+        write('This movie won '), 
+        write(OscarAward),
+        write(' Award(s) And '),
+        write(OscarNominee),
+        write(' Nominee(s)')
+    ;   Input = 7 ->
         suggest_movies_for_user
     ;   writeln('this choice is not available.'),
         fail
