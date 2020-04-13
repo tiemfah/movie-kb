@@ -2304,7 +2304,7 @@ rating_more_than_winner(Movie, OscarType, Year) :-
 %----------------------------------------------------------------------------------------------------------------------------
 
 suggest_movies_by :-
-    write('Choose 1-5:'), nl,
+    write('Choose 1-4:'), nl,
     write('1) Suggest movies by genre'), nl,
     write('2) Suggest movies by cast'), nl,
     write('3) Suggest movies by rated'), nl,
