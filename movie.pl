@@ -2414,7 +2414,7 @@ suggest_oscar :-
 %----------------------------------------------------------------------------------------------------------------------------
 
 main :-
-    write('Choose 1-5:'), nl,
+    write('Choose 1-6:'), nl,
     write('1) Suggest movies by ...'), nl,
     write('2) The Best Rating Movie'), nl,
     write('3) The Worst Rating Movie'), nl,
