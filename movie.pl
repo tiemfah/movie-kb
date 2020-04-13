@@ -1,7 +1,7 @@
 % Members : 6110545473 Chananchida Fuachai 
 %           6110545643 Sivanat Subpaisarn
 %           6110545660 Sirikon Songsaengthong 
-%           6110545673 Arisa Pangpeng
+%           6110545678 Arisa Pangpeng
 %           6110545783 Phanthakan Kiatphaisansophon
 
 /*
