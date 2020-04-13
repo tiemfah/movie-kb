@@ -2235,6 +2235,12 @@ get_movie_oscar_nomi_count(Movie, OscarNomiType, Count) :-
 
 %----------------------------------------------------------------------------------------------------------------------------
 
+director_of_cast(Cast, Director) :-
+    starred(Cast, Movie), 
+    directed(Director, Movie).
+
+%----------------------------------------------------------------------------------------------------------------------------
+
 best_rating_movie(Movie) :-
     movieRating(Movie,Rating1), \+
     (
