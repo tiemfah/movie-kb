@@ -2223,15 +2223,13 @@ get_animation_nominee_oscar_by_age(Age, Movie) :-
 
 %----------------------------------------------------------------------------------------------------------------------------
 
-get_movie_oscar_count(Movie, OscarType, Count) :-
-    aggregate_all(count, winnerOscar(Movie, OscarType, Year), Count),
-    Year > 2018.
+get_movie_oscar_count(Movie, OscarType, Count, Year) :-
+    aggregate_all(count, winnerOscar(Movie, OscarType, Year), Count).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
-get_movie_oscar_nomi_count(Movie, OscarNomiType, Count) :-
-    aggregate_all(count, nomineeOscar(Movie, OscarNomiType, Year), Count),
-    Year > 2018.
+get_movie_oscar_nomi_count(Movie, OscarNomiType, Count, Year) :-
+    aggregate_all(count, nomineeOscar(Movie, OscarNomiType, Year), Count).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
@@ -2286,8 +2284,8 @@ worst_rating_movie_by_genre(Movie, Genre) :-
 %----------------------------------------------------------------------------------------------------------------------------
 
 movie_award_listing(Movie, OscarAward, OscarNominee) :-
-    get_movie_oscar_count(Movie, X, OscarAward),
-    get_movie_oscar_nomi_count(Movie, X, OscarNominee).
+    get_movie_oscar_count(Movie, X, OscarAward, Y),
+    get_movie_oscar_nomi_count(Movie, X, OscarNominee, Y).
 
 %----------------------------------------------------------------------------------------------------------------------------
 
